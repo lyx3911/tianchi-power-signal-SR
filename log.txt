@@ -1,0 +1,1356 @@
+dataset info: 
+low data: data2/Train_1Hz.csv
+high data: data/Train_5Hz.csv
+window size: 2000
+time step: 200
+low data numbers: 5184000
+high data numbers: 25920000
+dataset len: 25910
+dataset info: 
+low data: data2/Valid_1Hz.csv
+high data: data/Valid_5Hz.csv
+window size: 2000
+time step: 200
+low data numbers: 1728000
+high data numbers: 8640000
+dataset len: 8630
+epoch: 0, train 5Hz: 0.2612167552297498, train 10Hz: 0.2707694391409556, valid 5Hz: 0.1649892375425056, valid 10Hz: 0.16944084172999418
+epoch: 1, train 5Hz: 0.1613306388074969, train 10Hz: 0.16342885663479934, valid 5Hz: 0.15501051776938968, valid 10Hz: 0.15899229215251076
+epoch: 2, train 5Hz: 0.15530149896203735, train 10Hz: 0.15703228958594947, valid 5Hz: 0.15135005171652194, valid 10Hz: 0.15356899858624848
+epoch: 3, train 5Hz: 0.15142262544896867, train 10Hz: 0.15156588900236437, valid 5Hz: 0.14743963342022012, valid 10Hz: 0.14663110066343238
+epoch: 4, train 5Hz: 0.14849104857371176, train 10Hz: 0.1463285830469779, valid 5Hz: 0.1454012667691266, valid 10Hz: 0.14241350249007897
+epoch: 5, train 5Hz: 0.1466480201593152, train 10Hz: 0.14418497830629348, valid 5Hz: 0.14416989546131204, valid 10Hz: 0.14216061736698504
+epoch: 6, train 5Hz: 0.14560212441432624, train 10Hz: 0.14303865681091946, valid 5Hz: 0.14325961801740858, valid 10Hz: 0.14063605826210093
+epoch: 7, train 5Hz: 0.14514771493864648, train 10Hz: 0.1426507748755408, valid 5Hz: 0.14302605324321324, valid 10Hz: 0.14136672389728053
+epoch: 8, train 5Hz: 0.14451121463451858, train 10Hz: 0.14204615038118246, valid 5Hz: 0.14275792296285983, valid 10Hz: 0.14050920517356308
+epoch: 9, train 5Hz: 0.14413428181483423, train 10Hz: 0.1414182639416353, valid 5Hz: 0.1430290487629396, valid 10Hz: 0.13956755570791385
+epoch: 10, train 5Hz: 0.14377185509160714, train 10Hz: 0.14147382720753, valid 5Hz: 0.14231882945254998, valid 10Hz: 0.14295951188714415
+epoch: 11, train 5Hz: 0.14356481616879688, train 10Hz: 0.14101601167593472, valid 5Hz: 0.1420789979122303, valid 10Hz: 0.14130208398456925
+epoch: 12, train 5Hz: 0.14326727912749773, train 10Hz: 0.14080856574906242, valid 5Hz: 0.14158037100677137, valid 10Hz: 0.14149169656965468
+epoch: 13, train 5Hz: 0.14306606817760587, train 10Hz: 0.1408703715161041, valid 5Hz: 0.1414603042933676, valid 10Hz: 0.13862787181580508
+epoch: 14, train 5Hz: 0.1427765566441748, train 10Hz: 0.14048508396487178, valid 5Hz: 0.14134852130103995, valid 10Hz: 0.13887790982370024
+epoch: 15, train 5Hz: 0.14266512802353612, train 10Hz: 0.1401837306810014, valid 5Hz: 0.1413160322440995, valid 10Hz: 0.1396864621727555
+epoch: 16, train 5Hz: 0.14234228055050344, train 10Hz: 0.14009066956278718, valid 5Hz: 0.1413984705452566, valid 10Hz: 0.1388947802009406
+epoch: 17, train 5Hz: 0.142166693619004, train 10Hz: 0.13998403251171113, valid 5Hz: 0.14113671901049438, valid 10Hz: 0.13802740965728408
+epoch: 18, train 5Hz: 0.14200696189094472, train 10Hz: 0.13996245607181831, valid 5Hz: 0.14101877609888713, valid 10Hz: 0.1398485244424255
+epoch: 19, train 5Hz: 0.1418279473980268, train 10Hz: 0.1396787072773333, valid 5Hz: 0.14054410131993117, valid 10Hz: 0.13743795355161031
+epoch: 20, train 5Hz: 0.1416644302599224, train 10Hz: 0.13953616749725223, valid 5Hz: 0.14024988208655959, valid 10Hz: 0.13793349083926942
+epoch: 21, train 5Hz: 0.14150180360417308, train 10Hz: 0.139512343539132, valid 5Hz: 0.1403375726055216, valid 10Hz: 0.13777060867459687
+epoch: 22, train 5Hz: 0.14132832080861668, train 10Hz: 0.13945328951985747, valid 5Hz: 0.14067401185079856, valid 10Hz: 0.1376616655676453
+epoch: 23, train 5Hz: 0.14129403684242273, train 10Hz: 0.13947555569954861, valid 5Hz: 0.139729656499845, valid 10Hz: 0.1406128129473439
+epoch: 24, train 5Hz: 0.14120320403649483, train 10Hz: 0.13940271615614125, valid 5Hz: 0.13970894945992363, valid 10Hz: 0.13776782464098047
+epoch: 25, train 5Hz: 0.14104730227479229, train 10Hz: 0.13859103001930095, valid 5Hz: 0.13992865604382973, valid 10Hz: 0.13781049533022774
+epoch: 26, train 5Hz: 0.14084580426598772, train 10Hz: 0.13868261205929297, valid 5Hz: 0.13988393892844517, valid 10Hz: 0.13713431109984717
+epoch: 27, train 5Hz: 0.1406837260097633, train 10Hz: 0.13865911377432905, valid 5Hz: 0.13972098623160964, valid 10Hz: 0.13661061276992162
+epoch: 28, train 5Hz: 0.14033205647159505, train 10Hz: 0.1387153157665406, valid 5Hz: 0.1393102881533128, valid 10Hz: 0.13720756476676021
+epoch: 29, train 5Hz: 0.13981682466871945, train 10Hz: 0.13840289380815293, valid 5Hz: 0.13866821240495752, valid 10Hz: 0.1374505196456556
+epoch: 30, train 5Hz: 0.139535690880852, train 10Hz: 0.1384765346844991, valid 5Hz: 0.138916892585931, valid 10Hz: 0.1360732983659815
+epoch: 31, train 5Hz: 0.1393332271112336, train 10Hz: 0.13824235872354038, valid 5Hz: 0.13971801742359444, valid 10Hz: 0.13676110003833417
+dataset info: 
+low data: data2/Valid_1Hz.csv
+high data: data2/Valid_10Hz.csv
+window size: 2000
+time step: 200
+low data numbers: 1728000
+high data numbers: 17280000
+dataset len: 8630
+val maape: 0.13549564387619562
+format finished
+save finished
+dataset info: 
+low data: data2/Test_low.csv
+high data: None
+window size: 2000
+time step: 200
+low data numbers: 864000
+dataset len: 4310
+format finished
+save finished
+epoch: 32, train 5Hz: 0.13917653878897795, train 10Hz: 0.13828940176301532, valid 5Hz: 0.13823528803057142, valid 10Hz: 0.1359308774272601
+dataset info: 
+low data: data2/Valid_1Hz.csv
+high data: data2/Valid_10Hz.csv
+window size: 2000
+time step: 200
+low data numbers: 1728000
+high data numbers: 17280000
+dataset len: 8630
+val maape: 0.13502548936971295
+format finished
+save finished
+dataset info: 
+low data: data2/Test_low.csv
+high data: None
+window size: 2000
+time step: 200
+low data numbers: 864000
+dataset len: 4310
+format finished
+save finished
+epoch: 33, train 5Hz: 0.1391654924294095, train 10Hz: 0.13800398486631887, valid 5Hz: 0.13810382115620154, valid 10Hz: 0.13614161660273869
+epoch: 34, train 5Hz: 0.13901325188301228, train 10Hz: 0.13800033974794693, valid 5Hz: 0.13856421924299664, valid 10Hz: 0.14086562764865382
+epoch: 35, train 5Hz: 0.13897119504802022, train 10Hz: 0.1380399512288011, valid 5Hz: 0.1382910143997934, valid 10Hz: 0.13604011077571798
+epoch: 36, train 5Hz: 0.1387887920310468, train 10Hz: 0.1372205415441666, valid 5Hz: 0.13802204148636923, valid 10Hz: 0.13706689692205853
+epoch: 37, train 5Hz: 0.1387816948471246, train 10Hz: 0.13729506613295756, valid 5Hz: 0.13856915412125764, valid 10Hz: 0.13551112821808567
+dataset info: 
+low data: data2/Valid_1Hz.csv
+high data: data2/Valid_10Hz.csv
+window size: 2000
+time step: 200
+low data numbers: 1728000
+high data numbers: 17280000
+dataset len: 8630
+val maape: 0.13443340127529657
+format finished
+save finished
+dataset info: 
+low data: data2/Test_low.csv
+high data: None
+window size: 2000
+time step: 200
+low data numbers: 864000
+dataset len: 4310
+format finished
+save finished
+epoch: 38, train 5Hz: 0.13879444111644487, train 10Hz: 0.1372209804845445, valid 5Hz: 0.1378439415384222, valid 10Hz: 0.1371488098193098
+epoch: 39, train 5Hz: 0.13862454453368245, train 10Hz: 0.13668407768379023, valid 5Hz: 0.13782884384746905, valid 10Hz: 0.13790104769998127
+epoch: 40, train 5Hz: 0.13860319609995242, train 10Hz: 0.13663501364213448, valid 5Hz: 0.137837468749947, valid 10Hz: 0.1350640501137133
+dataset info: 
+low data: data2/Valid_1Hz.csv
+high data: data2/Valid_10Hz.csv
+window size: 2000
+time step: 200
+low data numbers: 1728000
+high data numbers: 17280000
+dataset len: 8630
+val maape: 0.13399403579448024
+format finished
+save finished
+dataset info: 
+low data: data2/Test_low.csv
+high data: None
+window size: 2000
+time step: 200
+low data numbers: 864000
+dataset len: 4310
+format finished
+save finished
+epoch: 41, train 5Hz: 0.13854324256564365, train 10Hz: 0.1365775462285972, valid 5Hz: 0.13808052837848664, valid 10Hz: 0.13486758404307894
+dataset info: 
+low data: data2/Valid_1Hz.csv
+high data: data2/Valid_10Hz.csv
+window size: 2000
+time step: 200
+low data numbers: 1728000
+high data numbers: 17280000
+dataset len: 8630
+val maape: 0.13336076014680978
+format finished
+save finished
+dataset info: 
+low data: data2/Test_low.csv
+high data: None
+window size: 2000
+time step: 200
+low data numbers: 864000
+dataset len: 4310
+format finished
+save finished
+epoch: 42, train 5Hz: 0.13853448901647403, train 10Hz: 0.13612677175321697, valid 5Hz: 0.1380443314159358, valid 10Hz: 0.1341961349050204
+dataset info: 
+low data: data2/Valid_1Hz.csv
+high data: data2/Valid_10Hz.csv
+window size: 2000
+time step: 200
+low data numbers: 1728000
+high data numbers: 17280000
+dataset len: 8630
+val maape: 0.13327336297552983
+format finished
+save finished
+dataset info: 
+low data: data2/Test_low.csv
+high data: None
+window size: 2000
+time step: 200
+low data numbers: 864000
+dataset len: 4310
+format finished
+save finished
+epoch: 43, train 5Hz: 0.13847431514734104, train 10Hz: 0.13620994447925944, valid 5Hz: 0.1376220559080442, valid 10Hz: 0.13472618455136265
+epoch: 44, train 5Hz: 0.13844619073249675, train 10Hz: 0.13608102358785676, valid 5Hz: 0.13792988790406122, valid 10Hz: 0.13494027764708907
+epoch: 45, train 5Hz: 0.13836710000479663, train 10Hz: 0.13593041092893224, valid 5Hz: 0.13784453206592137, valid 10Hz: 0.13411690090541487
+dataset info: 
+low data: data2/Valid_1Hz.csv
+high data: data2/Valid_10Hz.csv
+window size: 2000
+time step: 200
+low data numbers: 1728000
+high data numbers: 17280000
+dataset len: 8630
+val maape: 0.1332482867733367
+format finished
+save finished
+dataset info: 
+low data: data2/Test_low.csv
+high data: None
+window size: 2000
+time step: 200
+low data numbers: 864000
+dataset len: 4310
+format finished
+save finished
+epoch: 46, train 5Hz: 0.13826408025659162, train 10Hz: 0.13593957462796458, valid 5Hz: 0.13753694638057992, valid 10Hz: 0.1337964810706951
+dataset info: 
+low data: data2/Valid_1Hz.csv
+high data: data2/Valid_10Hz.csv
+window size: 2000
+time step: 200
+low data numbers: 1728000
+high data numbers: 17280000
+dataset len: 8630
+val maape: 0.13284388780082976
+format finished
+save finished
+dataset info: 
+low data: data2/Test_low.csv
+high data: None
+window size: 2000
+time step: 200
+low data numbers: 864000
+dataset len: 4310
+format finished
+save finished
+epoch: 47, train 5Hz: 0.13833332777391244, train 10Hz: 0.13565641838459322, valid 5Hz: 0.137703913781378, valid 10Hz: 0.13456089198589324
+epoch: 48, train 5Hz: 0.13819818332975292, train 10Hz: 0.13572587497808314, valid 5Hz: 0.13726298378573523, valid 10Hz: 0.13564693833942768
+epoch: 49, train 5Hz: 0.1382103935803896, train 10Hz: 0.13552144011597575, valid 5Hz: 0.1376860338780615, valid 10Hz: 0.13450163233059423
+epoch: 50, train 5Hz: 0.13824144697483676, train 10Hz: 0.13553003433309954, valid 5Hz: 0.13735826799163112, valid 10Hz: 0.13523348349112052
+epoch: 51, train 5Hz: 0.13815456067706333, train 10Hz: 0.13556772457596697, valid 5Hz: 0.13737839145792854, valid 10Hz: 0.13422574273965976
+epoch: 52, train 5Hz: 0.13812374875501351, train 10Hz: 0.13527757284449943, valid 5Hz: 0.13776415365713615, valid 10Hz: 0.13328994076561046
+dataset info: 
+low data: data2/Valid_1Hz.csv
+high data: data2/Valid_10Hz.csv
+window size: 2000
+time step: 200
+low data numbers: 1728000
+high data numbers: 17280000
+dataset len: 8630
+val maape: 0.1323670994395153
+format finished
+save finished
+dataset info: 
+low data: data2/Test_low.csv
+high data: None
+window size: 2000
+time step: 200
+low data numbers: 864000
+dataset len: 4310
+format finished
+save finished
+epoch: 53, train 5Hz: 0.13808877714622167, train 10Hz: 0.13549626451215627, valid 5Hz: 0.13719521639523682, valid 10Hz: 0.13353265639808443
+epoch: 54, train 5Hz: 0.13802692356668872, train 10Hz: 0.13500820295310315, valid 5Hz: 0.1371043809586101, valid 10Hz: 0.13522876169946457
+epoch: 55, train 5Hz: 0.1381192241921837, train 10Hz: 0.13519187028761262, valid 5Hz: 0.137851014788504, valid 10Hz: 0.13491664324645644
+epoch: 56, train 5Hz: 0.13803771610981153, train 10Hz: 0.13529842615495494, valid 5Hz: 0.13722196524893795, valid 10Hz: 0.13420755868708645
+epoch: 57, train 5Hz: 0.13807928481219728, train 10Hz: 0.1353382603437812, valid 5Hz: 0.13702462276926747, valid 10Hz: 0.1340889126062393
+epoch: 58, train 5Hz: 0.13791834191407687, train 10Hz: 0.1347101209892167, valid 5Hz: 0.13733404482956285, valid 10Hz: 0.13327805399894715
+dataset info: 
+low data: data2/Valid_1Hz.csv
+high data: data2/Valid_10Hz.csv
+window size: 2000
+time step: 200
+low data numbers: 1728000
+high data numbers: 17280000
+dataset len: 8630
+val maape: 0.132336944451979
+format finished
+save finished
+dataset info: 
+low data: data2/Test_low.csv
+high data: None
+window size: 2000
+time step: 200
+low data numbers: 864000
+dataset len: 4310
+format finished
+save finished
+epoch: 59, train 5Hz: 0.1379494587764328, train 10Hz: 0.13491608677087008, valid 5Hz: 0.1373259295467977, valid 10Hz: 0.13363156975419432
+epoch: 60, train 5Hz: 0.13793100006418463, train 10Hz: 0.13473397105196375, valid 5Hz: 0.13700733328307116, valid 10Hz: 0.13387158066034316
+epoch: 61, train 5Hz: 0.137926382838208, train 10Hz: 0.13497508276759843, valid 5Hz: 0.1369215903458772, valid 10Hz: 0.13344499281159153
+epoch: 62, train 5Hz: 0.13782833558909688, train 10Hz: 0.13481892442997592, valid 5Hz: 0.13746026108662288, valid 10Hz: 0.13317312708607426
+dataset info: 
+low data: data2/Valid_1Hz.csv
+high data: data2/Valid_10Hz.csv
+window size: 2000
+time step: 200
+low data numbers: 1728000
+high data numbers: 17280000
+dataset len: 8630
+val maape: 0.132108612759824
+format finished
+save finished
+dataset info: 
+low data: data2/Test_low.csv
+high data: None
+window size: 2000
+time step: 200
+low data numbers: 864000
+dataset len: 4310
+format finished
+save finished
+epoch: 63, train 5Hz: 0.13786455241986262, train 10Hz: 0.13474209792452094, valid 5Hz: 0.13731055921978422, valid 10Hz: 0.13442194803997323
+epoch: 64, train 5Hz: 0.13786836996858504, train 10Hz: 0.13490385928271728, valid 5Hz: 0.1372259834298381, valid 10Hz: 0.1347330242395401
+epoch: 65, train 5Hz: 0.137829789592896, train 10Hz: 0.13464476892977584, valid 5Hz: 0.13735222341837705, valid 10Hz: 0.13407971351235
+epoch: 66, train 5Hz: 0.13775955081721883, train 10Hz: 0.13451336622238158, valid 5Hz: 0.13708426968918908, valid 10Hz: 0.13484847396612168
+epoch: 67, train 5Hz: 0.1377705842624476, train 10Hz: 0.13466625966039705, valid 5Hz: 0.1371900937071553, valid 10Hz: 0.13449177134920048
+epoch: 68, train 5Hz: 0.13780327474261508, train 10Hz: 0.13431181149718202, valid 5Hz: 0.1377400282356474, valid 10Hz: 0.13510735288814263
+epoch: 69, train 5Hz: 0.13777286778261633, train 10Hz: 0.13484600361114668, valid 5Hz: 0.13749790914632656, valid 10Hz: 0.13257355237448656
+dataset info: 
+low data: data2/Valid_1Hz.csv
+high data: data2/Valid_10Hz.csv
+window size: 2000
+time step: 200
+low data numbers: 1728000
+high data numbers: 17280000
+dataset len: 8630
+val maape: 0.13167564267311566
+format finished
+save finished
+dataset info: 
+low data: data2/Test_low.csv
+high data: None
+window size: 2000
+time step: 200
+low data numbers: 864000
+dataset len: 4310
+format finished
+save finished
+epoch: 70, train 5Hz: 0.1377249738868372, train 10Hz: 0.13449655914748157, valid 5Hz: 0.13719043135643005, valid 10Hz: 0.13371112291459683
+epoch: 71, train 5Hz: 0.1377419819434484, train 10Hz: 0.13455314099052806, valid 5Hz: 0.13818688718257127, valid 10Hz: 0.13327238981922468
+epoch: 72, train 5Hz: 0.13770121026922155, train 10Hz: 0.13473668891338655, valid 5Hz: 0.1367674246430397, valid 10Hz: 0.133339416704796
+epoch: 73, train 5Hz: 0.13778622176176236, train 10Hz: 0.13431511065106333, valid 5Hz: 0.13687628811156308, valid 10Hz: 0.13497439413158982
+epoch: 74, train 5Hz: 0.13768043404008135, train 10Hz: 0.13433173813937624, valid 5Hz: 0.1375173047736839, valid 10Hz: 0.13286803952521747
+epoch: 75, train 5Hz: 0.13769130173288746, train 10Hz: 0.13448286128264886, valid 5Hz: 0.1376855738736965, valid 10Hz: 0.13310621604323386
+epoch: 76, train 5Hz: 0.1376835541408739, train 10Hz: 0.13415188366248285, valid 5Hz: 0.1369448439390571, valid 10Hz: 0.13252679785644567
+dataset info: 
+low data: data2/Valid_1Hz.csv
+high data: data2/Valid_10Hz.csv
+window size: 2000
+time step: 200
+low data numbers: 1728000
+high data numbers: 17280000
+dataset len: 8630
+val maape: 0.1317943261336452
+format finished
+save finished
+dataset info: 
+low data: data2/Test_low.csv
+high data: None
+window size: 2000
+time step: 200
+low data numbers: 864000
+dataset len: 4310
+format finished
+save finished
+epoch: 77, train 5Hz: 0.1376747347874406, train 10Hz: 0.13437669740782843, valid 5Hz: 0.13712006785251477, valid 10Hz: 0.1325729480220212
+epoch: 78, train 5Hz: 0.13765336135287343, train 10Hz: 0.1341904158209577, valid 5Hz: 0.13763530784183078, valid 10Hz: 0.13271767601922707
+epoch: 79, train 5Hz: 0.1375769234549852, train 10Hz: 0.13421480578404885, valid 5Hz: 0.13697513474358453, valid 10Hz: 0.13274351176288393
+epoch: 80, train 5Hz: 0.1375687426255073, train 10Hz: 0.1340157417787446, valid 5Hz: 0.1369551416348528, valid 10Hz: 0.13457983729464038
+epoch: 81, train 5Hz: 0.13755716968465734, train 10Hz: 0.134304934905635, valid 5Hz: 0.13667695345701994, valid 10Hz: 0.1336474002511413
+epoch: 82, train 5Hz: 0.13757472093458528, train 10Hz: 0.13420098823161772, valid 5Hz: 0.13659970252602188, valid 10Hz: 0.13250859056909878
+dataset info: 
+low data: data2/Valid_1Hz.csv
+high data: data2/Valid_10Hz.csv
+window size: 2000
+time step: 200
+low data numbers: 1728000
+high data numbers: 17280000
+dataset len: 8630
+val maape: 0.13158133270557057
+format finished
+save finished
+dataset info: 
+low data: data2/Test_low.csv
+high data: None
+window size: 2000
+time step: 200
+low data numbers: 864000
+dataset len: 4310
+format finished
+save finished
+epoch: 83, train 5Hz: 0.13756576272440546, train 10Hz: 0.1340831320778823, valid 5Hz: 0.13790134428827852, valid 10Hz: 0.13610959500074388
+epoch: 84, train 5Hz: 0.13756254501180884, train 10Hz: 0.1339844240082635, valid 5Hz: 0.1368839582911244, valid 10Hz: 0.13244538050558832
+dataset info: 
+low data: data2/Valid_1Hz.csv
+high data: data2/Valid_10Hz.csv
+window size: 2000
+time step: 200
+low data numbers: 1728000
+high data numbers: 17280000
+dataset len: 8630
+val maape: 0.13151634893054842
+format finished
+save finished
+dataset info: 
+low data: data2/Test_low.csv
+high data: None
+window size: 2000
+time step: 200
+low data numbers: 864000
+dataset len: 4310
+format finished
+save finished
+epoch: 85, train 5Hz: 0.1375289751239765, train 10Hz: 0.13413575541825942, valid 5Hz: 0.13672502824553737, valid 10Hz: 0.1328010228772958
+epoch: 86, train 5Hz: 0.13753648047093991, train 10Hz: 0.13425922476583058, valid 5Hz: 0.13679545808721472, valid 10Hz: 0.13365994520761348
+epoch: 87, train 5Hz: 0.1375039408972234, train 10Hz: 0.13416161884864172, valid 5Hz: 0.13669824749231338, valid 10Hz: 0.1322476153848348
+dataset info: 
+low data: data2/Valid_1Hz.csv
+high data: data2/Valid_10Hz.csv
+window size: 2000
+time step: 200
+low data numbers: 1728000
+high data numbers: 17280000
+dataset len: 8630
+val maape: 0.13145418417670193
+format finished
+save finished
+dataset info: 
+low data: data2/Test_low.csv
+high data: None
+window size: 2000
+time step: 200
+low data numbers: 864000
+dataset len: 4310
+format finished
+save finished
+epoch: 88, train 5Hz: 0.13749697118261714, train 10Hz: 0.13399813324213028, valid 5Hz: 0.1366107306546635, valid 10Hz: 0.1360009346295286
+epoch: 89, train 5Hz: 0.13743419838540347, train 10Hz: 0.13394639983221338, valid 5Hz: 0.13652133213149176, valid 10Hz: 0.13227738986412685
+epoch: 90, train 5Hz: 0.13747000444082566, train 10Hz: 0.1337891666241634, valid 5Hz: 0.13679917565098515, valid 10Hz: 0.132855870547118
+epoch: 91, train 5Hz: 0.13743779019073205, train 10Hz: 0.13395617620812522, valid 5Hz: 0.13691611847391835, valid 10Hz: 0.13232930694465284
+epoch: 92, train 5Hz: 0.13744758619570438, train 10Hz: 0.13402424333272156, valid 5Hz: 0.13642201064913362, valid 10Hz: 0.1331177011684135
+epoch: 93, train 5Hz: 0.1373935678306921, train 10Hz: 0.1337372252050741, valid 5Hz: 0.1367114473272253, valid 10Hz: 0.13385741031832166
+epoch: 94, train 5Hz: 0.13736874612025274, train 10Hz: 0.13365700430708166, valid 5Hz: 0.13717408572082165, valid 10Hz: 0.13355945453599646
+epoch: 95, train 5Hz: 0.13742265701293946, train 10Hz: 0.13396261317862404, valid 5Hz: 0.13680253784965585, valid 10Hz: 0.13284356812084164
+epoch: 96, train 5Hz: 0.13736676527762118, train 10Hz: 0.13353540842179898, valid 5Hz: 0.13660502731800078, valid 10Hz: 0.13329468769607722
+epoch: 97, train 5Hz: 0.13732520207578752, train 10Hz: 0.13375568514988745, valid 5Hz: 0.13657576988140743, valid 10Hz: 0.1327367262431869
+epoch: 98, train 5Hz: 0.13744364034982376, train 10Hz: 0.13369470062079253, valid 5Hz: 0.1367339207618325, valid 10Hz: 0.13173500051101047
+dataset info: 
+low data: data2/Valid_1Hz.csv
+high data: data2/Valid_10Hz.csv
+window size: 2000
+time step: 200
+low data numbers: 1728000
+high data numbers: 17280000
+dataset len: 8630
+val maape: 0.1308457467074376
+format finished
+save finished
+dataset info: 
+low data: data2/Test_low.csv
+high data: None
+window size: 2000
+time step: 200
+low data numbers: 864000
+dataset len: 4310
+format finished
+save finished
+epoch: 99, train 5Hz: 0.13738651704273105, train 10Hz: 0.1337754253252053, valid 5Hz: 0.1368374615907669, valid 10Hz: 0.13332969976796044
+epoch: 100, train 5Hz: 0.13735308983811625, train 10Hz: 0.13344098027841544, valid 5Hz: 0.136643961403105, valid 10Hz: 0.13286043066117498
+epoch: 101, train 5Hz: 0.13732651545677657, train 10Hz: 0.13344502813286252, valid 5Hz: 0.13692359565584747, valid 10Hz: 0.1323717349657306
+epoch: 102, train 5Hz: 0.1372662455395416, train 10Hz: 0.13367327387318198, valid 5Hz: 0.13789778075836323, valid 10Hz: 0.13274585875096145
+epoch: 103, train 5Hz: 0.13738431067746362, train 10Hz: 0.1337030076502282, valid 5Hz: 0.13671652409765456, valid 10Hz: 0.13213061720684724
+epoch: 104, train 5Hz: 0.13728473832209906, train 10Hz: 0.13363296262643956, valid 5Hz: 0.13648988317560268, valid 10Hz: 0.13324900385406283
+epoch: 105, train 5Hz: 0.1373076507338771, train 10Hz: 0.1335838767297474, valid 5Hz: 0.13665517143629216, valid 10Hz: 0.13172443743657183
+dataset info: 
+low data: data2/Valid_1Hz.csv
+high data: data2/Valid_10Hz.csv
+window size: 2000
+time step: 200
+low data numbers: 1728000
+high data numbers: 17280000
+dataset len: 8630
+val maape: 0.13104680312166164
+format finished
+save finished
+dataset info: 
+low data: data2/Test_low.csv
+high data: None
+window size: 2000
+time step: 200
+low data numbers: 864000
+dataset len: 4310
+format finished
+save finished
+epoch: 106, train 5Hz: 0.13726203038736626, train 10Hz: 0.13340811615372883, valid 5Hz: 0.13652680852898844, valid 10Hz: 0.13274949118494989
+epoch: 107, train 5Hz: 0.1373401325609949, train 10Hz: 0.13355317684235396, valid 5Hz: 0.13631686943548696, valid 10Hz: 0.13308659289722088
+epoch: 108, train 5Hz: 0.1373104981618163, train 10Hz: 0.13364595266771906, valid 5Hz: 0.13708842209091893, valid 10Hz: 0.13229672384482843
+epoch: 109, train 5Hz: 0.13724699489496373, train 10Hz: 0.1337010144819448, valid 5Hz: 0.13680752068758012, valid 10Hz: 0.13344833999872208
+epoch: 110, train 5Hz: 0.13733648109583207, train 10Hz: 0.13342786797402817, valid 5Hz: 0.13757546770351906, valid 10Hz: 0.13241028393860216
+epoch: 111, train 5Hz: 0.13720312350326114, train 10Hz: 0.13321904873038515, valid 5Hz: 0.13661768232230787, valid 10Hz: 0.13203993105777986
+epoch: 112, train 5Hz: 0.13723171001967088, train 10Hz: 0.13350973114555265, valid 5Hz: 0.13677288895403897, valid 10Hz: 0.1320034538154249
+epoch: 113, train 5Hz: 0.1371875308362054, train 10Hz: 0.13341725251556916, valid 5Hz: 0.13645723219271058, valid 10Hz: 0.13303659988774194
+epoch: 114, train 5Hz: 0.13728009925948248, train 10Hz: 0.133406964422744, valid 5Hz: 0.1366170616061599, valid 10Hz: 0.1319278415430475
+epoch: 115, train 5Hz: 0.13720164074573987, train 10Hz: 0.13320380162309717, valid 5Hz: 0.13720950142101004, valid 10Hz: 0.13211035270381857
+epoch: 116, train 5Hz: 0.13717863773122246, train 10Hz: 0.1331595743144, valid 5Hz: 0.13793507665395738, valid 10Hz: 0.13197608959895593
+epoch: 117, train 5Hz: 0.13723831434308748, train 10Hz: 0.13337050247707485, valid 5Hz: 0.13637640415518373, valid 10Hz: 0.13219920700346982
+epoch: 118, train 5Hz: 0.13718034904680135, train 10Hz: 0.13325660609536702, valid 5Hz: 0.1363316752292492, valid 10Hz: 0.13200021860776123
+epoch: 119, train 5Hz: 0.1372204194282308, train 10Hz: 0.1332579302015128, valid 5Hz: 0.1361759415931172, valid 10Hz: 0.13175057669480641
+epoch: 120, train 5Hz: 0.13714241525273263, train 10Hz: 0.13324680383558626, valid 5Hz: 0.13652912731523867, valid 10Hz: 0.13200483388370937
+epoch: 121, train 5Hz: 0.13713653282618818, train 10Hz: 0.13303486899829206, valid 5Hz: 0.1364728468435782, valid 10Hz: 0.13194393490751585
+epoch: 122, train 5Hz: 0.13717957773694286, train 10Hz: 0.1332485455605719, valid 5Hz: 0.13623031548879766, valid 10Hz: 0.13237346201031297
+epoch: 123, train 5Hz: 0.1371879255330121, train 10Hz: 0.13332590177471254, valid 5Hz: 0.13627770184366791, valid 10Hz: 0.13168229248236726
+dataset info: 
+low data: data2/Valid_1Hz.csv
+high data: data2/Valid_10Hz.csv
+window size: 2000
+time step: 200
+low data numbers: 1728000
+high data numbers: 17280000
+dataset len: 8630
+val maape: 0.1308883309800546
+format finished
+save finished
+dataset info: 
+low data: data2/Test_low.csv
+high data: None
+window size: 2000
+time step: 200
+low data numbers: 864000
+dataset len: 4310
+format finished
+save finished
+epoch: 124, train 5Hz: 0.13712585126912152, train 10Hz: 0.13293797633162252, valid 5Hz: 0.13687246872319114, valid 10Hz: 0.13178439576316764
+epoch: 125, train 5Hz: 0.13713158858411106, train 10Hz: 0.1331622556955726, valid 5Hz: 0.1367380325992902, valid 10Hz: 0.13427579069027193
+epoch: 126, train 5Hz: 0.13710712985492046, train 10Hz: 0.13302202191617754, valid 5Hz: 0.1373456691702207, valid 10Hz: 0.13239308733631064
+epoch: 127, train 5Hz: 0.13714337323182896, train 10Hz: 0.13327114234368007, valid 5Hz: 0.13642878427549646, valid 10Hz: 0.1324207703548449
+epoch: 128, train 5Hz: 0.13714707059624753, train 10Hz: 0.13311504857775605, valid 5Hz: 0.136621569428179, valid 10Hz: 0.1321978156765302
+epoch: 129, train 5Hz: 0.13716262317734002, train 10Hz: 0.13295524284059618, valid 5Hz: 0.13664845918063764, valid 10Hz: 0.13211776316165924
+epoch: 130, train 5Hz: 0.13712205885001172, train 10Hz: 0.1329441018310594, valid 5Hz: 0.13656359679169125, valid 10Hz: 0.13187723049411068
+epoch: 131, train 5Hz: 0.13702014837368034, train 10Hz: 0.13287667633942615, valid 5Hz: 0.1363379545233868, valid 10Hz: 0.13199778568965417
+epoch: 132, train 5Hz: 0.13705173403392604, train 10Hz: 0.13304419602140968, valid 5Hz: 0.13622986685346675, valid 10Hz: 0.13218885091719804
+epoch: 133, train 5Hz: 0.13703949081676978, train 10Hz: 0.13272189113460942, valid 5Hz: 0.13610147579952522, valid 10Hz: 0.13134318537734174
+dataset info: 
+low data: data2/Valid_1Hz.csv
+high data: data2/Valid_10Hz.csv
+window size: 2000
+time step: 200
+low data numbers: 1728000
+high data numbers: 17280000
+dataset len: 8630
+val maape: 0.1306039414981955
+format finished
+save finished
+dataset info: 
+low data: data2/Test_low.csv
+high data: None
+window size: 2000
+time step: 200
+low data numbers: 864000
+dataset len: 4310
+format finished
+save finished
+epoch: 134, train 5Hz: 0.13701955214326764, train 10Hz: 0.1328224100816397, valid 5Hz: 0.1366758992826497, valid 10Hz: 0.13195400640920357
+epoch: 135, train 5Hz: 0.1370736735470501, train 10Hz: 0.1328918092412713, valid 5Hz: 0.13686807459151304, valid 10Hz: 0.13122013892840456
+dataset info: 
+low data: data2/Valid_1Hz.csv
+high data: data2/Valid_10Hz.csv
+window size: 2000
+time step: 200
+low data numbers: 1728000
+high data numbers: 17280000
+dataset len: 8630
+val maape: 0.1304410213573228
+format finished
+save finished
+dataset info: 
+low data: data2/Test_low.csv
+high data: None
+window size: 2000
+time step: 200
+low data numbers: 864000
+dataset len: 4310
+format finished
+save finished
+epoch: 136, train 5Hz: 0.13707162765441117, train 10Hz: 0.13287915780588433, valid 5Hz: 0.136302681322451, valid 10Hz: 0.13181611727233286
+epoch: 137, train 5Hz: 0.13712141140375608, train 10Hz: 0.13294972871188765, valid 5Hz: 0.136239203258797, valid 10Hz: 0.131904928855322
+epoch: 138, train 5Hz: 0.13700008272756764, train 10Hz: 0.13285631116157698, valid 5Hz: 0.13673108799590006, valid 10Hz: 0.1318715810223862
+epoch: 139, train 5Hz: 0.13704676063340387, train 10Hz: 0.1329190782558771, valid 5Hz: 0.1362690034839842, valid 10Hz: 0.1320032811275235
+epoch: 140, train 5Hz: 0.13700118097994063, train 10Hz: 0.13282163522125762, valid 5Hz: 0.13627383731029652, valid 10Hz: 0.13177612376985726
+epoch: 141, train 5Hz: 0.13704105102353625, train 10Hz: 0.13295683908609696, valid 5Hz: 0.13627246386475034, valid 10Hz: 0.1310490359586698
+dataset info: 
+low data: data2/Valid_1Hz.csv
+high data: data2/Valid_10Hz.csv
+window size: 2000
+time step: 200
+low data numbers: 1728000
+high data numbers: 17280000
+dataset len: 8630
+val maape: 0.13032234555522115
+format finished
+save finished
+dataset info: 
+low data: data2/Test_low.csv
+high data: None
+window size: 2000
+time step: 200
+low data numbers: 864000
+dataset len: 4310
+format finished
+save finished
+epoch: 142, train 5Hz: 0.13701911907137176, train 10Hz: 0.13277202804147462, valid 5Hz: 0.13622556334292446, valid 10Hz: 0.13164247139184562
+epoch: 143, train 5Hz: 0.13699695456911015, train 10Hz: 0.1327484647616928, valid 5Hz: 0.13635839919249218, valid 10Hz: 0.13168237374888525
+epoch: 144, train 5Hz: 0.13696755899323357, train 10Hz: 0.1327931077208048, valid 5Hz: 0.13643470820453432, valid 10Hz: 0.13093397520758487
+dataset info: 
+low data: data2/Valid_1Hz.csv
+high data: data2/Valid_10Hz.csv
+window size: 2000
+time step: 200
+low data numbers: 1728000
+high data numbers: 17280000
+dataset len: 8630
+val maape: 0.13017919523113633
+format finished
+save finished
+dataset info: 
+low data: data2/Test_low.csv
+high data: None
+window size: 2000
+time step: 200
+low data numbers: 864000
+dataset len: 4310
+format finished
+save finished
+epoch: 145, train 5Hz: 0.13705484822944358, train 10Hz: 0.1328117243485686, valid 5Hz: 0.13600458789754796, valid 10Hz: 0.1334288399528574
+epoch: 146, train 5Hz: 0.13701035019792157, train 10Hz: 0.1327453811963399, valid 5Hz: 0.13639745038968545, valid 10Hz: 0.13125069527714342
+epoch: 147, train 5Hz: 0.13701656872843518, train 10Hz: 0.1326617760790719, valid 5Hz: 0.13601268005591852, valid 10Hz: 0.13205545461840099
+epoch: 148, train 5Hz: 0.136990031544809, train 10Hz: 0.13254089848494824, valid 5Hz: 0.13617832638599253, valid 10Hz: 0.13333638354584024
+epoch: 149, train 5Hz: 0.13694835358563764, train 10Hz: 0.13254241941519726, valid 5Hz: 0.13727566903388058, valid 10Hz: 0.1322486427647096
+epoch: 150, train 5Hz: 0.13696535796294979, train 10Hz: 0.1328819782645614, valid 5Hz: 0.13732172029989737, valid 10Hz: 0.1319939523935318
+epoch: 151, train 5Hz: 0.13694471761032387, train 10Hz: 0.13253746961737856, valid 5Hz: 0.13772012883866275, valid 10Hz: 0.13505429675181707
+epoch: 152, train 5Hz: 0.13695022485874317, train 10Hz: 0.13257761340082427, valid 5Hz: 0.13607933245323323, valid 10Hz: 0.13285599516497718
+epoch: 153, train 5Hz: 0.13695392899307204, train 10Hz: 0.13242259594025435, valid 5Hz: 0.1362123332089848, valid 10Hz: 0.13150585589033587
+epoch: 154, train 5Hz: 0.1369640647629161, train 10Hz: 0.13246029847198063, valid 5Hz: 0.1361177353947251, valid 10Hz: 0.13203827264132323
+epoch: 155, train 5Hz: 0.13687782449486816, train 10Hz: 0.13250095422989056, valid 5Hz: 0.13601433215317904, valid 10Hz: 0.13116985780221443
+epoch: 156, train 5Hz: 0.13692449953085112, train 10Hz: 0.13255529236278416, valid 5Hz: 0.13672917369339202, valid 10Hz: 0.1312951090435187
+epoch: 157, train 5Hz: 0.1369706701533294, train 10Hz: 0.13249305387338003, valid 5Hz: 0.1363591406080458, valid 10Hz: 0.13147800818637564
+epoch: 158, train 5Hz: 0.13689852360590005, train 10Hz: 0.13236884614567698, valid 5Hz: 0.13614303988439067, valid 10Hz: 0.1328536943980941
+epoch: 159, train 5Hz: 0.13694493982159062, train 10Hz: 0.13239466386076845, valid 5Hz: 0.13643376965213705, valid 10Hz: 0.1323626001124029
+epoch: 160, train 5Hz: 0.13699105534656547, train 10Hz: 0.13246781404739544, valid 5Hz: 0.13604126373926798, valid 10Hz: 0.1312273570232921
+epoch: 161, train 5Hz: 0.13686543316752822, train 10Hz: 0.13223415438407732, valid 5Hz: 0.13608080838565473, valid 10Hz: 0.13114264361836292
+epoch: 162, train 5Hz: 0.13693060363516396, train 10Hz: 0.13236971580319934, valid 5Hz: 0.13606118179029889, valid 10Hz: 0.13175644013616775
+epoch: 163, train 5Hz: 0.13690744792973553, train 10Hz: 0.1323832447514122, valid 5Hz: 0.13612299809853237, valid 10Hz: 0.13153875257681918
+epoch: 164, train 5Hz: 0.13689543404328972, train 10Hz: 0.1324410327054836, valid 5Hz: 0.1367793674270312, valid 10Hz: 0.13155454684186865
+epoch: 165, train 5Hz: 0.13685221116483948, train 10Hz: 0.1323411026670609, valid 5Hz: 0.1361985895368788, valid 10Hz: 0.13134004048727177
+epoch: 166, train 5Hz: 0.1369149880092821, train 10Hz: 0.1322907551571175, valid 5Hz: 0.1364671449970316, valid 10Hz: 0.1309162185423904
+dataset info: 
+low data: data2/Valid_1Hz.csv
+high data: data2/Valid_10Hz.csv
+window size: 2000
+time step: 200
+low data numbers: 1728000
+high data numbers: 17280000
+dataset len: 8630
+val maape: 0.13023546388192953
+format finished
+save finished
+dataset info: 
+low data: data2/Test_low.csv
+high data: None
+window size: 2000
+time step: 200
+low data numbers: 864000
+dataset len: 4310
+format finished
+save finished
+epoch: 167, train 5Hz: 0.1368322593378432, train 10Hz: 0.13223589373591504, valid 5Hz: 0.13643088418024557, valid 10Hz: 0.13186763789918687
+epoch: 168, train 5Hz: 0.13689725205854134, train 10Hz: 0.13234055428593247, valid 5Hz: 0.13618649763089638, valid 10Hz: 0.13145169996552997
+epoch: 169, train 5Hz: 0.1369033314011715, train 10Hz: 0.13233635554343093, valid 5Hz: 0.13606732487678527, valid 10Hz: 0.13217597405115764
+epoch: 170, train 5Hz: 0.13684935457544561, train 10Hz: 0.13242067172203534, valid 5Hz: 0.13614236331648297, valid 10Hz: 0.13140662618809276
+epoch: 171, train 5Hz: 0.13681282305423123, train 10Hz: 0.13202034492551545, valid 5Hz: 0.13577448102059186, valid 10Hz: 0.13110669158675053
+epoch: 172, train 5Hz: 0.13687015648609327, train 10Hz: 0.13217669548811736, valid 5Hz: 0.13599562727742726, valid 10Hz: 0.13052073137627707
+dataset info: 
+low data: data2/Valid_1Hz.csv
+high data: data2/Valid_10Hz.csv
+window size: 2000
+time step: 200
+low data numbers: 1728000
+high data numbers: 17280000
+dataset len: 8630
+val maape: 0.1297221775436073
+format finished
+save finished
+dataset info: 
+low data: data2/Test_low.csv
+high data: None
+window size: 2000
+time step: 200
+low data numbers: 864000
+dataset len: 4310
+format finished
+save finished
+epoch: 173, train 5Hz: 0.13684140705032113, train 10Hz: 0.13217521957409234, valid 5Hz: 0.13635462991617345, valid 10Hz: 0.13084305615888703
+epoch: 174, train 5Hz: 0.1368810141896024, train 10Hz: 0.1323204591502378, valid 5Hz: 0.13617296240947865, valid 10Hz: 0.1306612336801158
+epoch: 175, train 5Hz: 0.13683345474210787, train 10Hz: 0.13205126764965647, valid 5Hz: 0.13620497611937699, valid 10Hz: 0.13162526526936777
+epoch: 176, train 5Hz: 0.13684135721421536, train 10Hz: 0.1324493736396601, valid 5Hz: 0.1358408945578116, valid 10Hz: 0.13116029310557578
+epoch: 177, train 5Hz: 0.13679819348049752, train 10Hz: 0.13227545663162513, valid 5Hz: 0.13588240521925468, valid 10Hz: 0.13122121843474882
+epoch: 178, train 5Hz: 0.1368158542999515, train 10Hz: 0.13208593946916086, valid 5Hz: 0.1358783038126098, valid 10Hz: 0.13072365091906654
+epoch: 179, train 5Hz: 0.1368369490828043, train 10Hz: 0.13194321749019033, valid 5Hz: 0.13607725307897287, valid 10Hz: 0.13070986676547264
+epoch: 180, train 5Hz: 0.1368269282542629, train 10Hz: 0.13214996768000686, valid 5Hz: 0.1357513760526975, valid 10Hz: 0.13079599931284233
+epoch: 181, train 5Hz: 0.1367657589139762, train 10Hz: 0.1319440578420957, valid 5Hz: 0.135922368367513, valid 10Hz: 0.13320057830876775
+epoch: 182, train 5Hz: 0.13685667465130488, train 10Hz: 0.1322359875396446, valid 5Hz: 0.13633592007336792, valid 10Hz: 0.13073187732586153
+epoch: 183, train 5Hz: 0.1367754770281874, train 10Hz: 0.1319622857151208, valid 5Hz: 0.13592361851974769, valid 10Hz: 0.13133808280582782
+epoch: 184, train 5Hz: 0.1368063277484458, train 10Hz: 0.13207753039436576, valid 5Hz: 0.1357087892514688, valid 10Hz: 0.1306057851071711
+epoch: 185, train 5Hz: 0.1367455329975964, train 10Hz: 0.1322319656058594, valid 5Hz: 0.13594736180923603, valid 10Hz: 0.131337190474625
+epoch: 186, train 5Hz: 0.13675976472872275, train 10Hz: 0.13197823954217228, valid 5Hz: 0.13611708327575966, valid 10Hz: 0.13032018531251838
+dataset info: 
+low data: data2/Valid_1Hz.csv
+high data: data2/Valid_10Hz.csv
+window size: 2000
+time step: 200
+low data numbers: 1728000
+high data numbers: 17280000
+dataset len: 8630
+val maape: 0.1295141828245374
+format finished
+save finished
+dataset info: 
+low data: data2/Test_low.csv
+high data: None
+window size: 2000
+time step: 200
+low data numbers: 864000
+dataset len: 4310
+format finished
+save finished
+epoch: 187, train 5Hz: 0.1368257310655382, train 10Hz: 0.1320314195053077, valid 5Hz: 0.13588571079351283, valid 10Hz: 0.1306515878273381
+epoch: 188, train 5Hz: 0.13676779238898076, train 10Hz: 0.13188399762651068, valid 5Hz: 0.13578533877929053, valid 10Hz: 0.1321787097111896
+epoch: 189, train 5Hz: 0.13675679334519822, train 10Hz: 0.1318518775112835, valid 5Hz: 0.13598805533515082, valid 10Hz: 0.13103177376367428
+epoch: 190, train 5Hz: 0.13683218225652788, train 10Hz: 0.13186352284234248, valid 5Hz: 0.13570039012917764, valid 10Hz: 0.1308551659738576
+epoch: 191, train 5Hz: 0.13671882917851577, train 10Hz: 0.13183179017570285, valid 5Hz: 0.13623413531868547, valid 10Hz: 0.1312977761030197
+epoch: 192, train 5Hz: 0.136788390411271, train 10Hz: 0.13203946166200403, valid 5Hz: 0.1364751155729647, valid 10Hz: 0.1304912386669053
+epoch: 193, train 5Hz: 0.13678400538585805, train 10Hz: 0.13212630342186232, valid 5Hz: 0.13577883938948312, valid 10Hz: 0.1304515229055175
+epoch: 194, train 5Hz: 0.13671802709132064, train 10Hz: 0.13189335040472172, valid 5Hz: 0.13603773619289752, valid 10Hz: 0.13064555917625073
+epoch: 195, train 5Hz: 0.13667533079415192, train 10Hz: 0.13176720436708428, valid 5Hz: 0.13604737448471563, valid 10Hz: 0.1306947323459166
+epoch: 196, train 5Hz: 0.13670411349078757, train 10Hz: 0.13188817587531643, valid 5Hz: 0.13618950992822648, valid 10Hz: 0.13143814973257206
+epoch: 197, train 5Hz: 0.1368356990961381, train 10Hz: 0.1318421642721435, valid 5Hz: 0.1360699635412958, valid 10Hz: 0.1323085175620185
+epoch: 198, train 5Hz: 0.13669472645830225, train 10Hz: 0.13183081484871145, valid 5Hz: 0.13586224124387458, valid 10Hz: 0.13151261690590116
+epoch: 199, train 5Hz: 0.13672111185244573, train 10Hz: 0.13179412612944474, valid 5Hz: 0.13599426006829296, valid 10Hz: 0.13102129948911845
+epoch: 200, train 5Hz: 0.13669885135727164, train 10Hz: 0.13185623871323504, valid 5Hz: 0.13580623219410579, valid 10Hz: 0.13141049574370736
+epoch: 201, train 5Hz: 0.13666367525303805, train 10Hz: 0.131748029589653, valid 5Hz: 0.13566813822145815, valid 10Hz: 0.13046523539556398
+epoch: 202, train 5Hz: 0.13677330333509563, train 10Hz: 0.1318898257282045, valid 5Hz: 0.13617026138084906, valid 10Hz: 0.13069153527418773
+epoch: 203, train 5Hz: 0.13672834128877262, train 10Hz: 0.13196710625916352, valid 5Hz: 0.1356727040476269, valid 10Hz: 0.13221731550163693
+epoch: 204, train 5Hz: 0.1367394639202106, train 10Hz: 0.13173282597167993, valid 5Hz: 0.13618601234974684, valid 10Hz: 0.13021583659229455
+dataset info: 
+low data: data2/Valid_1Hz.csv
+high data: data2/Valid_10Hz.csv
+window size: 2000
+time step: 200
+low data numbers: 1728000
+high data numbers: 17280000
+dataset len: 8630
+val maape: 0.12943841247976742
+format finished
+save finished
+dataset info: 
+low data: data2/Test_low.csv
+high data: None
+window size: 2000
+time step: 200
+low data numbers: 864000
+dataset len: 4310
+format finished
+save finished
+epoch: 205, train 5Hz: 0.1366942423729249, train 10Hz: 0.13179466660008018, valid 5Hz: 0.13620930639681994, valid 10Hz: 0.13044733316810042
+epoch: 206, train 5Hz: 0.13668265684887215, train 10Hz: 0.1316082102281076, valid 5Hz: 0.13597208576069938, valid 10Hz: 0.13113577205825735
+epoch: 207, train 5Hz: 0.13672947611337827, train 10Hz: 0.13176566434127313, valid 5Hz: 0.13590599563386704, valid 10Hz: 0.13025043115571694
+epoch: 208, train 5Hz: 0.13672286145113133, train 10Hz: 0.13170584855992118, valid 5Hz: 0.1362015429470274, valid 10Hz: 0.13054536581039428
+epoch: 209, train 5Hz: 0.1366885343083629, train 10Hz: 0.13166791406678566, valid 5Hz: 0.13615476340055466, valid 10Hz: 0.1323396572360286
+epoch: 210, train 5Hz: 0.13669838309288024, train 10Hz: 0.13187133379188584, valid 5Hz: 0.13560979824375224, valid 10Hz: 0.1303706204449689
+epoch: 211, train 5Hz: 0.13669328685895896, train 10Hz: 0.1315883172331033, valid 5Hz: 0.1360242137754405, valid 10Hz: 0.13025013669221489
+epoch: 212, train 5Hz: 0.13669834909615694, train 10Hz: 0.13163292172514363, valid 5Hz: 0.13588010635640885, valid 10Hz: 0.13156063283483188
+epoch: 213, train 5Hz: 0.1366632287884936, train 10Hz: 0.13167069145926721, valid 5Hz: 0.13613920393917295, valid 10Hz: 0.13090919201020842
+epoch: 214, train 5Hz: 0.1366869510507878, train 10Hz: 0.13164297881317727, valid 5Hz: 0.13588736101433083, valid 10Hz: 0.13053945418861176
+epoch: 215, train 5Hz: 0.13668335185006814, train 10Hz: 0.13155900815754762, valid 5Hz: 0.1360065284150618, valid 10Hz: 0.1315807514168598
+epoch: 216, train 5Hz: 0.13667914155456756, train 10Hz: 0.13166061054777217, valid 5Hz: 0.13618468438033704, valid 10Hz: 0.13155202076390937
+epoch: 217, train 5Hz: 0.13668792385745931, train 10Hz: 0.13160555688319384, valid 5Hz: 0.1357064050104883, valid 10Hz: 0.13119521014116428
+epoch: 218, train 5Hz: 0.13660693536570043, train 10Hz: 0.13176045531843916, valid 5Hz: 0.1365446350088826, valid 10Hz: 0.1316607488250291
+epoch: 219, train 5Hz: 0.13669930284405932, train 10Hz: 0.13156711207127866, valid 5Hz: 0.13603095544709098, valid 10Hz: 0.1305362071428034
+epoch: 220, train 5Hz: 0.1366758793408488, train 10Hz: 0.13150973776240407, valid 5Hz: 0.13594784797341736, valid 10Hz: 0.13025522102360373
+epoch: 221, train 5Hz: 0.13665718029678603, train 10Hz: 0.13160837060875363, valid 5Hz: 0.13593643445659567, valid 10Hz: 0.1303699077003532
+epoch: 222, train 5Hz: 0.13669890599486267, train 10Hz: 0.1316493624522362, valid 5Hz: 0.13608768786545153, valid 10Hz: 0.13027471842037308
+epoch: 223, train 5Hz: 0.13658828034445092, train 10Hz: 0.1315741961017067, valid 5Hz: 0.13583467266073934, valid 10Hz: 0.12994032662223887
+dataset info: 
+low data: data2/Valid_1Hz.csv
+high data: data2/Valid_10Hz.csv
+window size: 2000
+time step: 200
+low data numbers: 1728000
+high data numbers: 17280000
+dataset len: 8630
+val maape: 0.12907760763341145
+format finished
+save finished
+dataset info: 
+low data: data2/Test_low.csv
+high data: None
+window size: 2000
+time step: 200
+low data numbers: 864000
+dataset len: 4310
+format finished
+save finished
+epoch: 224, train 5Hz: 0.13665042769761734, train 10Hz: 0.1316877650441947, valid 5Hz: 0.13638138710348693, valid 10Hz: 0.1302558713213161
+epoch: 225, train 5Hz: 0.13665441353747873, train 10Hz: 0.13156183122852702, valid 5Hz: 0.13635442703962325, valid 10Hz: 0.13252773704352203
+epoch: 226, train 5Hz: 0.1366115661131011, train 10Hz: 0.1315062090570544, valid 5Hz: 0.13585177930416883, valid 10Hz: 0.13050215321558492
+epoch: 227, train 5Hz: 0.13665514376796323, train 10Hz: 0.1314856461168807, valid 5Hz: 0.13572424479104855, valid 10Hz: 0.12976611300751015
+dataset info: 
+low data: data2/Valid_1Hz.csv
+high data: data2/Valid_10Hz.csv
+window size: 2000
+time step: 200
+low data numbers: 1728000
+high data numbers: 17280000
+dataset len: 8630
+val maape: 0.12906186498371555
+format finished
+save finished
+dataset info: 
+low data: data2/Test_low.csv
+high data: None
+window size: 2000
+time step: 200
+low data numbers: 864000
+dataset len: 4310
+format finished
+save finished
+epoch: 228, train 5Hz: 0.13661035067505306, train 10Hz: 0.1313921837159145, valid 5Hz: 0.13598925807961712, valid 10Hz: 0.13059307096732986
+epoch: 229, train 5Hz: 0.13661952428979637, train 10Hz: 0.13140084888832068, valid 5Hz: 0.13610964985909285, valid 10Hz: 0.13041790767952247
+epoch: 230, train 5Hz: 0.13660188297062745, train 10Hz: 0.1314909217534242, valid 5Hz: 0.13597050325738058, valid 10Hz: 0.12980375618294435
+epoch: 231, train 5Hz: 0.13660778988290717, train 10Hz: 0.13143607238192617, valid 5Hz: 0.13570770742716612, valid 10Hz: 0.12992624370036301
+epoch: 232, train 5Hz: 0.13660328719351028, train 10Hz: 0.13144505165609313, valid 5Hz: 0.1361531428716801, valid 10Hz: 0.1314944369373498
+epoch: 233, train 5Hz: 0.13670398605826461, train 10Hz: 0.13167372125166435, valid 5Hz: 0.13595423703944243, valid 10Hz: 0.1309710089807157
+epoch: 234, train 5Hz: 0.13665963698316502, train 10Hz: 0.13143706060486077, valid 5Hz: 0.13577402548657524, valid 10Hz: 0.13083835453898818
+epoch: 235, train 5Hz: 0.1366139464908176, train 10Hz: 0.13139971989540405, valid 5Hz: 0.1357301296459304, valid 10Hz: 0.12967538819820792
+dataset info: 
+low data: data2/Valid_1Hz.csv
+high data: data2/Valid_10Hz.csv
+window size: 2000
+time step: 200
+low data numbers: 1728000
+high data numbers: 17280000
+dataset len: 8630
+val maape: 0.1289384895390478
+format finished
+save finished
+dataset info: 
+low data: data2/Test_low.csv
+high data: None
+window size: 2000
+time step: 200
+low data numbers: 864000
+dataset len: 4310
+format finished
+save finished
+epoch: 236, train 5Hz: 0.13657946698827508, train 10Hz: 0.13137195537119736, valid 5Hz: 0.13583063941310952, valid 10Hz: 0.13166203636814047
+epoch: 237, train 5Hz: 0.13667025185293621, train 10Hz: 0.1313926010772034, valid 5Hz: 0.1357399528225263, valid 10Hz: 0.13008900949800456
+epoch: 238, train 5Hz: 0.13661490012834102, train 10Hz: 0.1315418283880493, valid 5Hz: 0.13614957647191153, valid 10Hz: 0.13033461976382468
+epoch: 239, train 5Hz: 0.13663500168441253, train 10Hz: 0.13139998138318826, valid 5Hz: 0.1360033956942735, valid 10Hz: 0.13023843445159772
+epoch: 240, train 5Hz: 0.13665286499409027, train 10Hz: 0.13146739195526383, valid 5Hz: 0.13582821957491062, valid 10Hz: 0.13033585923689384
+epoch: 241, train 5Hz: 0.1365716982954814, train 10Hz: 0.1315258574338607, valid 5Hz: 0.13557469971753933, valid 10Hz: 0.12997130812318236
+epoch: 242, train 5Hz: 0.1365456559775788, train 10Hz: 0.13116932735766892, valid 5Hz: 0.13599707743635883, valid 10Hz: 0.1303264596120075
+epoch: 243, train 5Hz: 0.13653254757324854, train 10Hz: 0.13122026355546199, valid 5Hz: 0.13583663392949988, valid 10Hz: 0.13012747378261
+epoch: 244, train 5Hz: 0.13657298389776254, train 10Hz: 0.13165030867597202, valid 5Hz: 0.13575618454703578, valid 10Hz: 0.1305155781960046
+epoch: 245, train 5Hz: 0.13653833744702515, train 10Hz: 0.131199586317863, valid 5Hz: 0.13624945023545512, valid 10Hz: 0.13092722669243811
+epoch: 246, train 5Hz: 0.1366009788012799, train 10Hz: 0.1313227574398488, valid 5Hz: 0.13586213257577684, valid 10Hz: 0.1300916495146575
+epoch: 247, train 5Hz: 0.13666254372140507, train 10Hz: 0.13145366901600802, valid 5Hz: 0.13559583166131267, valid 10Hz: 0.13058532981408966
+epoch: 248, train 5Hz: 0.13649918391012852, train 10Hz: 0.13129032789557069, valid 5Hz: 0.13577336183300726, valid 10Hz: 0.1300150900527283
+epoch: 249, train 5Hz: 0.13655154116359758, train 10Hz: 0.13126960262472248, valid 5Hz: 0.13637511708118297, valid 10Hz: 0.13158488234987967
+epoch: 250, train 5Hz: 0.13655917740162507, train 10Hz: 0.13126654358189782, valid 5Hz: 0.13651699512093154, valid 10Hz: 0.1320160665721805
+epoch: 251, train 5Hz: 0.13657400734998562, train 10Hz: 0.13142082838364588, valid 5Hz: 0.1360335879303791, valid 10Hz: 0.13191072675916884
+epoch: 252, train 5Hz: 0.1366123620742633, train 10Hz: 0.13116130655930366, valid 5Hz: 0.13594130934388549, valid 10Hz: 0.13111351653933526
+epoch: 253, train 5Hz: 0.13647347924150066, train 10Hz: 0.13115828305850794, valid 5Hz: 0.13564139085787313, valid 10Hz: 0.12996357282002766
+epoch: 254, train 5Hz: 0.1365789821854344, train 10Hz: 0.1311950327437601, valid 5Hz: 0.13603688340496134, valid 10Hz: 0.13016669018952934
+epoch: 255, train 5Hz: 0.13651086818656805, train 10Hz: 0.13133471694625454, valid 5Hz: 0.1356770376916285, valid 10Hz: 0.12980974562190198
+epoch: 256, train 5Hz: 0.13656211224970993, train 10Hz: 0.1312928283656085, valid 5Hz: 0.13579637402737582, valid 10Hz: 0.13000720584834063
+epoch: 257, train 5Hz: 0.1365143993386516, train 10Hz: 0.13125466875456, valid 5Hz: 0.1357814206017388, valid 10Hz: 0.13149570850310502
+epoch: 258, train 5Hz: 0.13661762417098622, train 10Hz: 0.13132833509165565, valid 5Hz: 0.1363894051975674, valid 10Hz: 0.13116097808988006
+epoch: 259, train 5Hz: 0.13648465421096778, train 10Hz: 0.13097013722599288, valid 5Hz: 0.13593721467035788, valid 10Hz: 0.1296939511541967
+epoch: 260, train 5Hz: 0.13654473464430114, train 10Hz: 0.13120183525262055, valid 5Hz: 0.1358329791713644, valid 10Hz: 0.13103680538910406
+epoch: 261, train 5Hz: 0.1365096374794289, train 10Hz: 0.1310959021250407, valid 5Hz: 0.13582749444025535, valid 10Hz: 0.13111586678359244
+epoch: 262, train 5Hz: 0.1366092836967221, train 10Hz: 0.1311527325047387, valid 5Hz: 0.13563965735612094, valid 10Hz: 0.13168976257244747
+epoch: 263, train 5Hz: 0.1364840229352315, train 10Hz: 0.1311202366962845, valid 5Hz: 0.13629883649172606, valid 10Hz: 0.12990854923371917
+epoch: 264, train 5Hz: 0.13654843482338352, train 10Hz: 0.13118323014106278, valid 5Hz: 0.13574865692191654, valid 10Hz: 0.1308678513323819
+epoch: 265, train 5Hz: 0.13654405585041754, train 10Hz: 0.13112287374190343, valid 5Hz: 0.1361106417245335, valid 10Hz: 0.13010432949220693
+epoch: 266, train 5Hz: 0.13647925393816865, train 10Hz: 0.1310116140930741, valid 5Hz: 0.13586115599782378, valid 10Hz: 0.13001198834843106
+epoch: 267, train 5Hz: 0.13649786425593458, train 10Hz: 0.13123138925911468, valid 5Hz: 0.13593156277029603, valid 10Hz: 0.13008317632807626
+epoch: 268, train 5Hz: 0.13654401618757367, train 10Hz: 0.13107194670556505, valid 5Hz: 0.13592943841660465, valid 10Hz: 0.13038905262947081
+epoch: 269, train 5Hz: 0.13648450551209626, train 10Hz: 0.1311452055418933, valid 5Hz: 0.13582944908627756, valid 10Hz: 0.13005677158081974
+epoch: 270, train 5Hz: 0.1365100590903082, train 10Hz: 0.130985479719109, valid 5Hz: 0.1357383672285963, valid 10Hz: 0.13012652289536264
+epoch: 271, train 5Hz: 0.13658334783933782, train 10Hz: 0.13113077174366256, valid 5Hz: 0.1357325780170935, valid 10Hz: 0.12942485342975016
+dataset info: 
+low data: data2/Valid_1Hz.csv
+high data: data2/Valid_10Hz.csv
+window size: 2000
+time step: 200
+low data numbers: 1728000
+high data numbers: 17280000
+dataset len: 8630
+val maape: 0.12864376416902543
+format finished
+save finished
+dataset info: 
+low data: data2/Test_low.csv
+high data: None
+window size: 2000
+time step: 200
+low data numbers: 864000
+dataset len: 4310
+format finished
+save finished
+epoch: 272, train 5Hz: 0.13657965969156335, train 10Hz: 0.1311630016491737, valid 5Hz: 0.13565366201930576, valid 10Hz: 0.13010350187067632
+epoch: 273, train 5Hz: 0.13644066235901398, train 10Hz: 0.13083614276515113, valid 5Hz: 0.13558488846928984, valid 10Hz: 0.13022172359956635
+epoch: 274, train 5Hz: 0.13647299280137193, train 10Hz: 0.1311595630314615, valid 5Hz: 0.13582296117588324, valid 10Hz: 0.13012314941044206
+epoch: 275, train 5Hz: 0.13642127576433583, train 10Hz: 0.13091011785062742, valid 5Hz: 0.1356184172961447, valid 10Hz: 0.12961593913259328
+epoch: 276, train 5Hz: 0.1364491315535557, train 10Hz: 0.13083932517487326, valid 5Hz: 0.13600770599312254, valid 10Hz: 0.12991144287365455
+epoch: 277, train 5Hz: 0.13649754412012335, train 10Hz: 0.13108273803451914, valid 5Hz: 0.13588518687972315, valid 10Hz: 0.1322018022890444
+epoch: 278, train 5Hz: 0.13651769229291397, train 10Hz: 0.13113012392947704, valid 5Hz: 0.13557867678227248, valid 10Hz: 0.1303892330163055
+epoch: 279, train 5Hz: 0.1364723226538411, train 10Hz: 0.1310322638647056, valid 5Hz: 0.13569539145187096, valid 10Hz: 0.1294700830347008
+epoch: 280, train 5Hz: 0.1365075022350123, train 10Hz: 0.13097629054093066, valid 5Hz: 0.13563775574719464, valid 10Hz: 0.12960356366303233
+epoch: 281, train 5Hz: 0.13650967434600547, train 10Hz: 0.1312001127887655, valid 5Hz: 0.1359501686361101, valid 10Hz: 0.13143094998818858
+epoch: 282, train 5Hz: 0.13649448963962954, train 10Hz: 0.13088042986245804, valid 5Hz: 0.13566245215910452, valid 10Hz: 0.13191136612936302
+epoch: 283, train 5Hz: 0.13650448888908198, train 10Hz: 0.13093236320548587, valid 5Hz: 0.1357157392634286, valid 10Hz: 0.1298859908348984
+epoch: 284, train 5Hz: 0.13646168653611784, train 10Hz: 0.1309539126025306, valid 5Hz: 0.1355946836096269, valid 10Hz: 0.12999980510384948
+epoch: 285, train 5Hz: 0.1364075709640244, train 10Hz: 0.13082213664864317, valid 5Hz: 0.13559024311878062, valid 10Hz: 0.12944488964147038
+epoch: 286, train 5Hz: 0.1365079872402144, train 10Hz: 0.13085742751021445, valid 5Hz: 0.13558298973021685, valid 10Hz: 0.12973011897669898
+epoch: 287, train 5Hz: 0.13645717900844268, train 10Hz: 0.1308773206155977, valid 5Hz: 0.13599584958067648, valid 10Hz: 0.1297253633538882
+epoch: 288, train 5Hz: 0.1364934281434542, train 10Hz: 0.13083025240971718, valid 5Hz: 0.13571956433631754, valid 10Hz: 0.12965871688944322
+epoch: 289, train 5Hz: 0.13642140827429147, train 10Hz: 0.13082788682278293, valid 5Hz: 0.1360948120554288, valid 10Hz: 0.13032465163204404
+epoch: 290, train 5Hz: 0.13642639828684888, train 10Hz: 0.13084858376302838, valid 5Hz: 0.13565977006046862, valid 10Hz: 0.1300333025554816
+epoch: 291, train 5Hz: 0.13648403607032916, train 10Hz: 0.13108612683452206, valid 5Hz: 0.1357192384975928, valid 10Hz: 0.13020793770750363
+epoch: 292, train 5Hz: 0.1364209042839062, train 10Hz: 0.13093597022471604, valid 5Hz: 0.1356792735280814, valid 10Hz: 0.1293513714439339
+dataset info: 
+low data: data2/Valid_1Hz.csv
+high data: data2/Valid_10Hz.csv
+window size: 2000
+time step: 200
+low data numbers: 1728000
+high data numbers: 17280000
+dataset len: 8630
+val maape: 0.12860950014454928
+format finished
+save finished
+dataset info: 
+low data: data2/Test_low.csv
+high data: None
+window size: 2000
+time step: 200
+low data numbers: 864000
+dataset len: 4310
+format finished
+save finished
+epoch: 293, train 5Hz: 0.1364850490733429, train 10Hz: 0.13093098990711166, valid 5Hz: 0.1358640455537372, valid 10Hz: 0.12936909085622542
+epoch: 294, train 5Hz: 0.13648351734435116, train 10Hz: 0.13069137894077065, valid 5Hz: 0.13586600930602463, valid 10Hz: 0.12999907011787096
+epoch: 295, train 5Hz: 0.13646796936238254, train 10Hz: 0.1308710459941699, valid 5Hz: 0.13582016632512764, valid 10Hz: 0.12966292183156367
+epoch: 296, train 5Hz: 0.13647571947471596, train 10Hz: 0.1308791074671863, valid 5Hz: 0.13593513237105476, valid 10Hz: 0.12972971267170377
+epoch: 297, train 5Hz: 0.1365264140161467, train 10Hz: 0.13095405006114347, valid 5Hz: 0.13615918738974464, valid 10Hz: 0.12987327799201012
+epoch: 298, train 5Hz: 0.13640661657224468, train 10Hz: 0.1307834141784244, valid 5Hz: 0.13570209669846076, valid 10Hz: 0.1294169353114234
+epoch: 299, train 5Hz: 0.13643746379716898, train 10Hz: 0.13072276529338625, valid 5Hz: 0.1357637952875208, valid 10Hz: 0.1298764203985532
+epoch: 300, train 5Hz: 0.1363989034736598, train 10Hz: 0.1307509853516096, valid 5Hz: 0.13598534122661307, valid 10Hz: 0.13020657303708572
+epoch: 301, train 5Hz: 0.1364049427487232, train 10Hz: 0.13077015558510652, valid 5Hz: 0.13609820814044388, valid 10Hz: 0.1315989598079964
+epoch: 302, train 5Hz: 0.13644493266388222, train 10Hz: 0.13086515286086517, valid 5Hz: 0.13587269920993733, valid 10Hz: 0.1307578741952225
+epoch: 303, train 5Hz: 0.1364424192795047, train 10Hz: 0.130841784859881, valid 5Hz: 0.13569288435909482, valid 10Hz: 0.13041050362366216
+epoch: 304, train 5Hz: 0.1363545635416184, train 10Hz: 0.13067490108955054, valid 5Hz: 0.13547233199631725, valid 10Hz: 0.129386938114961
+epoch: 305, train 5Hz: 0.13646640244089528, train 10Hz: 0.13098403620131222, valid 5Hz: 0.13634357115736714, valid 10Hz: 0.12935557028761616
+epoch: 306, train 5Hz: 0.13642648018804598, train 10Hz: 0.13062733742925856, valid 5Hz: 0.13544256140788397, valid 10Hz: 0.12912500737993807
+dataset info: 
+low data: data2/Valid_1Hz.csv
+high data: data2/Valid_10Hz.csv
+window size: 2000
+time step: 200
+low data numbers: 1728000
+high data numbers: 17280000
+dataset len: 8630
+val maape: 0.12832104949550036
+format finished
+save finished
+dataset info: 
+low data: data2/Test_low.csv
+high data: None
+window size: 2000
+time step: 200
+low data numbers: 864000
+dataset len: 4310
+format finished
+save finished
+epoch: 307, train 5Hz: 0.13635723259713914, train 10Hz: 0.130717199102596, valid 5Hz: 0.1356050095072499, valid 10Hz: 0.12939859871511106
+epoch: 308, train 5Hz: 0.1364032322793831, train 10Hz: 0.130656228610027, valid 5Hz: 0.1356327952058227, valid 10Hz: 0.12933519692332657
+epoch: 309, train 5Hz: 0.1364260874780608, train 10Hz: 0.13074725283148847, valid 5Hz: 0.13578504588868884, valid 10Hz: 0.12924823349824657
+epoch: 310, train 5Hz: 0.1364395148408266, train 10Hz: 0.13077004139806017, valid 5Hz: 0.13572632223367692, valid 10Hz: 0.1295746905936135
+epoch: 311, train 5Hz: 0.13644684457484588, train 10Hz: 0.13092861344784867, valid 5Hz: 0.13580212587559665, valid 10Hz: 0.12974826105766826
+epoch: 312, train 5Hz: 0.13637033413957667, train 10Hz: 0.13059030879794817, valid 5Hz: 0.13561513837840822, valid 10Hz: 0.12923524771575576
+epoch: 313, train 5Hz: 0.1363576997577408, train 10Hz: 0.13065969237574823, valid 5Hz: 0.13578392659072522, valid 10Hz: 0.12902100202110078
+dataset info: 
+low data: data2/Valid_1Hz.csv
+high data: data2/Valid_10Hz.csv
+window size: 2000
+time step: 200
+low data numbers: 1728000
+high data numbers: 17280000
+dataset len: 8630
+val maape: 0.12819444892640197
+format finished
+save finished
+dataset info: 
+low data: data2/Test_low.csv
+high data: None
+window size: 2000
+time step: 200
+low data numbers: 864000
+dataset len: 4310
+format finished
+save finished
+epoch: 314, train 5Hz: 0.13638572183288175, train 10Hz: 0.13064019475822095, valid 5Hz: 0.13566384729411868, valid 10Hz: 0.12945354511892354
+epoch: 315, train 5Hz: 0.13634205455029452, train 10Hz: 0.130698459898984, valid 5Hz: 0.1356177786986033, valid 10Hz: 0.1294493417221087
+epoch: 316, train 5Hz: 0.1364103094479184, train 10Hz: 0.13065540418948657, valid 5Hz: 0.1355608136013702, valid 10Hz: 0.12913482972869167
+epoch: 317, train 5Hz: 0.1364184887872802, train 10Hz: 0.1306050262885329, valid 5Hz: 0.13568948220323634, valid 10Hz: 0.12973280135128235
+epoch: 318, train 5Hz: 0.13638536703807336, train 10Hz: 0.13081985724928938, valid 5Hz: 0.13571149320514114, valid 10Hz: 0.12949691925335813
+epoch: 319, train 5Hz: 0.13640688711110457, train 10Hz: 0.13064260486467386, valid 5Hz: 0.1353971270499406, valid 10Hz: 0.12906379084344263
+epoch: 320, train 5Hz: 0.13646216182797044, train 10Hz: 0.13086483259627849, valid 5Hz: 0.13585174900514108, valid 10Hz: 0.1293856332147563
+epoch: 321, train 5Hz: 0.13636602540442974, train 10Hz: 0.13054539888729283, valid 5Hz: 0.13571412552286077, valid 10Hz: 0.1296558955753291
+epoch: 322, train 5Hz: 0.13638954173635554, train 10Hz: 0.13071619191287476, valid 5Hz: 0.135796486945064, valid 10Hz: 0.13074870609022954
+epoch: 323, train 5Hz: 0.13634280656222944, train 10Hz: 0.13056989126367333, valid 5Hz: 0.13544175348899984, valid 10Hz: 0.12927138341797723
+epoch: 324, train 5Hz: 0.13641375135860326, train 10Hz: 0.13060400820808646, valid 5Hz: 0.13548270022427594, valid 10Hz: 0.12963700636669442
+epoch: 325, train 5Hz: 0.13629426229515193, train 10Hz: 0.13053226491183412, valid 5Hz: 0.13553274351137656, valid 10Hz: 0.1296491813328531
+epoch: 326, train 5Hz: 0.13633386354755472, train 10Hz: 0.13060493607211995, valid 5Hz: 0.13603476247301807, valid 10Hz: 0.1308932720511048
+epoch: 327, train 5Hz: 0.13639731155133542, train 10Hz: 0.1306805694176827, valid 5Hz: 0.13550964715304198, valid 10Hz: 0.130951663741359
+epoch: 328, train 5Hz: 0.13631355427665476, train 10Hz: 0.13058702261359603, valid 5Hz: 0.1355875524105849, valid 10Hz: 0.13107840324993486
+epoch: 329, train 5Hz: 0.13632259626447418, train 10Hz: 0.13067944241158755, valid 5Hz: 0.13562197398256373, valid 10Hz: 0.12984136577557634
+epoch: 330, train 5Hz: 0.13629971600976992, train 10Hz: 0.1306353896304413, valid 5Hz: 0.1360611019311128, valid 10Hz: 0.1302181735082909
+epoch: 331, train 5Hz: 0.13639270115045854, train 10Hz: 0.1306232077288039, valid 5Hz: 0.13594622313976287, valid 10Hz: 0.13012986762656106
+epoch: 332, train 5Hz: 0.13638619243362804, train 10Hz: 0.1307374543061963, valid 5Hz: 0.13589411664892126, valid 10Hz: 0.12955202162265778
+epoch: 333, train 5Hz: 0.13631321557877976, train 10Hz: 0.13041927930381564, valid 5Hz: 0.13582044078244104, valid 10Hz: 0.12953201201226977
+epoch: 334, train 5Hz: 0.1363570703400506, train 10Hz: 0.13047558124418612, valid 5Hz: 0.13647255268361833, valid 10Hz: 0.13031157315881164
+epoch: 335, train 5Hz: 0.13636002825734056, train 10Hz: 0.13061148406546794, valid 5Hz: 0.13556228257991648, valid 10Hz: 0.12964196177544418
+epoch: 336, train 5Hz: 0.13633782541678274, train 10Hz: 0.1304844648565775, valid 5Hz: 0.1355898612075382, valid 10Hz: 0.1288496419235512
+dataset info: 
+low data: data2/Valid_1Hz.csv
+high data: data2/Valid_10Hz.csv
+window size: 2000
+time step: 200
+low data numbers: 1728000
+high data numbers: 17280000
+dataset len: 8630
+val maape: 0.12804722500155954
+format finished
+save finished
+dataset info: 
+low data: data2/Test_low.csv
+high data: None
+window size: 2000
+time step: 200
+low data numbers: 864000
+dataset len: 4310
+format finished
+save finished
+epoch: 337, train 5Hz: 0.13632724093802182, train 10Hz: 0.13042599341751618, valid 5Hz: 0.13537584626012378, valid 10Hz: 0.12925702896383073
+epoch: 338, train 5Hz: 0.13628579841719735, train 10Hz: 0.13054956484723973, valid 5Hz: 0.13543374527383734, valid 10Hz: 0.12990212581223912
+epoch: 339, train 5Hz: 0.136338405844606, train 10Hz: 0.13050390888511398, valid 5Hz: 0.13592776308457058, valid 10Hz: 0.12989053770347878
+epoch: 340, train 5Hz: 0.13634187606749712, train 10Hz: 0.1305394838253657, valid 5Hz: 0.13571938629503602, valid 10Hz: 0.12988590791269586
+epoch: 341, train 5Hz: 0.13633030827766585, train 10Hz: 0.13046187272778265, valid 5Hz: 0.13575760793906672, valid 10Hz: 0.13083425873407611
+epoch: 342, train 5Hz: 0.13633719127119323, train 10Hz: 0.13051272213091086, valid 5Hz: 0.13635540808792468, valid 10Hz: 0.12981446749634212
+epoch: 343, train 5Hz: 0.1363320158035667, train 10Hz: 0.1305475060954506, valid 5Hz: 0.1357095346958549, valid 10Hz: 0.1307623674472173
+epoch: 344, train 5Hz: 0.13628902889696168, train 10Hz: 0.13046713648019015, valid 5Hz: 0.13592912554740905, valid 10Hz: 0.1289869807936527
+epoch: 345, train 5Hz: 0.1362739086886983, train 10Hz: 0.13036384919175395, valid 5Hz: 0.13564103107761455, valid 10Hz: 0.1297251703010665
+epoch: 346, train 5Hz: 0.1363195598125458, train 10Hz: 0.1304863671645706, valid 5Hz: 0.13557304138386692, valid 10Hz: 0.12952953944051707
+epoch: 347, train 5Hz: 0.13633612604052933, train 10Hz: 0.13051663120219736, valid 5Hz: 0.1356080820163091, valid 10Hz: 0.1291272510808927
+epoch: 348, train 5Hz: 0.1363205902002476, train 10Hz: 0.13045216491560876, valid 5Hz: 0.1359787834463296, valid 10Hz: 0.13094547975946355
+epoch: 349, train 5Hz: 0.13632246997253394, train 10Hz: 0.13057127559994475, valid 5Hz: 0.13598480842731617, valid 10Hz: 0.1291642047740795
+epoch: 350, train 5Hz: 0.1362070941630705, train 10Hz: 0.1302845588252868, valid 5Hz: 0.13593168159325916, valid 10Hz: 0.12920533655970184
+epoch: 351, train 5Hz: 0.13638281143373912, train 10Hz: 0.13073301720030514, valid 5Hz: 0.1356262194889563, valid 10Hz: 0.12924105651952603
+epoch: 352, train 5Hz: 0.13626597560482262, train 10Hz: 0.13046242475141714, valid 5Hz: 0.13596444687357656, valid 10Hz: 0.12927105570280994
+epoch: 353, train 5Hz: 0.13633522748211283, train 10Hz: 0.13029975412804404, valid 5Hz: 0.13589399782595812, valid 10Hz: 0.12902384323102456
+epoch: 354, train 5Hz: 0.13630640245514153, train 10Hz: 0.13039179138931228, valid 5Hz: 0.13633300910393398, valid 10Hz: 0.12939362738419463
+epoch: 355, train 5Hz: 0.13628291380994115, train 10Hz: 0.1303237536991084, valid 5Hz: 0.13600232639798412, valid 10Hz: 0.13007059977562338
+epoch: 356, train 5Hz: 0.1363082120631948, train 10Hz: 0.1303004150221377, valid 5Hz: 0.13634407691381595, valid 10Hz: 0.13040855938085802
+epoch: 357, train 5Hz: 0.1363401048897225, train 10Hz: 0.1302730883161227, valid 5Hz: 0.13587376287689915, valid 10Hz: 0.12946061472649928
+epoch: 358, train 5Hz: 0.13627022515844417, train 10Hz: 0.13034917476736468, valid 5Hz: 0.1355084726655925, valid 10Hz: 0.12870319866471822
+dataset info: 
+low data: data2/Valid_1Hz.csv
+high data: data2/Valid_10Hz.csv
+window size: 2000
+time step: 200
+low data numbers: 1728000
+high data numbers: 17280000
+dataset len: 8630
+val maape: 0.12788505578401424
+format finished
+save finished
+dataset info: 
+low data: data2/Test_low.csv
+high data: None
+window size: 2000
+time step: 200
+low data numbers: 864000
+dataset len: 4310
+format finished
+save finished
+epoch: 359, train 5Hz: 0.13623284193468682, train 10Hz: 0.13022272377102465, valid 5Hz: 0.13616945291007007, valid 10Hz: 0.1290876410625599
+epoch: 360, train 5Hz: 0.13631475976219884, train 10Hz: 0.13044045245573843, valid 5Hz: 0.13557683831011808, valid 10Hz: 0.12987542709818592
+epoch: 361, train 5Hz: 0.1362709359622296, train 10Hz: 0.1301472246462916, valid 5Hz: 0.1356334740916888, valid 10Hz: 0.13073001553614935
+epoch: 362, train 5Hz: 0.13625827904468701, train 10Hz: 0.1302703540634226, valid 5Hz: 0.13556316550131198, valid 10Hz: 0.12921731852822835
+epoch: 363, train 5Hz: 0.13630953085275344, train 10Hz: 0.13030595065634928, valid 5Hz: 0.1360348203667888, valid 10Hz: 0.13028426275209146
+epoch: 364, train 5Hz: 0.13627669443318874, train 10Hz: 0.13024328998577447, valid 5Hz: 0.1355714077198947, valid 10Hz: 0.1289550898803605
+epoch: 365, train 5Hz: 0.13623659941885208, train 10Hz: 0.13035919061045587, valid 5Hz: 0.13576581334626234, valid 10Hz: 0.12949533545308642
+epoch: 366, train 5Hz: 0.13624184087470725, train 10Hz: 0.13013414368953233, valid 5Hz: 0.13586600323518117, valid 10Hz: 0.12971427631047036
+epoch: 367, train 5Hz: 0.136253387324604, train 10Hz: 0.13031923202452836, valid 5Hz: 0.1359330020017094, valid 10Hz: 0.12970033608101034
+epoch: 368, train 5Hz: 0.13625866673242898, train 10Hz: 0.1302369918536257, valid 5Hz: 0.13546904066094645, valid 10Hz: 0.1293583837096338
+epoch: 369, train 5Hz: 0.13627714821953832, train 10Hz: 0.1303289983375573, valid 5Hz: 0.13604240776212126, valid 10Hz: 0.12902535539534357
+epoch: 370, train 5Hz: 0.13627296925326923, train 10Hz: 0.13027035242613452, valid 5Hz: 0.13622181774289518, valid 10Hz: 0.13165361550119187
+epoch: 371, train 5Hz: 0.13633652842707103, train 10Hz: 0.13026240826756866, valid 5Hz: 0.13596265580919054, valid 10Hz: 0.13001362281265083
+epoch: 372, train 5Hz: 0.13629834758646694, train 10Hz: 0.1302706268834479, valid 5Hz: 0.13590715792444016, valid 10Hz: 0.1306007956189138
+epoch: 373, train 5Hz: 0.13624813977950884, train 10Hz: 0.13020881024407752, valid 5Hz: 0.13576032629719487, valid 10Hz: 0.12953004781846647
+epoch: 374, train 5Hz: 0.13621553200998424, train 10Hz: 0.13029073156692364, valid 5Hz: 0.1355120477852998, valid 10Hz: 0.12898423975264584
+epoch: 375, train 5Hz: 0.13621014082505378, train 10Hz: 0.13019833837026432, valid 5Hz: 0.13568378548931193, valid 10Hz: 0.12939430025440676
+epoch: 376, train 5Hz: 0.1362406650075206, train 10Hz: 0.13026400887303882, valid 5Hz: 0.1360457803916048, valid 10Hz: 0.12908008297284443
+epoch: 377, train 5Hz: 0.13624197242804514, train 10Hz: 0.1302813129844489, valid 5Hz: 0.13562719419046684, valid 10Hz: 0.12908197475804223
+epoch: 378, train 5Hz: 0.13624090421714902, train 10Hz: 0.1301813072260515, valid 5Hz: 0.13565219971868728, valid 10Hz: 0.12937068867462653
+epoch: 379, train 5Hz: 0.13622935519174292, train 10Hz: 0.13020364873939091, valid 5Hz: 0.1356680628878099, valid 10Hz: 0.1298091759836232
+epoch: 380, train 5Hz: 0.13631344360333902, train 10Hz: 0.13018024111235582, valid 5Hz: 0.13677587492598428, valid 10Hz: 0.13174321392068156
+epoch: 381, train 5Hz: 0.13622734478594345, train 10Hz: 0.1302661740117603, valid 5Hz: 0.13563113863821383, valid 10Hz: 0.12909090207130822
+epoch: 382, train 5Hz: 0.13623200174834993, train 10Hz: 0.13017851680885126, valid 5Hz: 0.13561614216477783, valid 10Hz: 0.12990326351589626
+epoch: 383, train 5Hz: 0.13622172798639462, train 10Hz: 0.13012310130360685, valid 5Hz: 0.13576965944634545, valid 10Hz: 0.1289918006570251
+epoch: 384, train 5Hz: 0.13618981547561693, train 10Hz: 0.13012496240345048, valid 5Hz: 0.13566174534735856, valid 10Hz: 0.12951002228591177
+epoch: 385, train 5Hz: 0.1362378567825129, train 10Hz: 0.1302191843221217, valid 5Hz: 0.13616122123267915, valid 10Hz: 0.12898499515873416
+epoch: 386, train 5Hz: 0.13624769392204875, train 10Hz: 0.13008811565828912, valid 5Hz: 0.13547396212816237, valid 10Hz: 0.13010008387543537
+epoch: 387, train 5Hz: 0.13620017020054806, train 10Hz: 0.13010756423075995, valid 5Hz: 0.1358189559645123, valid 10Hz: 0.12923447495257412
+epoch: 388, train 5Hz: 0.13620474456269063, train 10Hz: 0.1300864353592013, valid 5Hz: 0.1354177834811034, valid 10Hz: 0.12910683560702535
+epoch: 389, train 5Hz: 0.13623091177439983, train 10Hz: 0.13016507890489365, valid 5Hz: 0.13527074616264415, valid 10Hz: 0.12887027305033472
+epoch: 390, train 5Hz: 0.136180338944182, train 10Hz: 0.13004799924882843, valid 5Hz: 0.13551555154500183, valid 10Hz: 0.12909978592285404
+epoch: 391, train 5Hz: 0.13618074193780805, train 10Hz: 0.13008826076984406, valid 5Hz: 0.13562798886387437, valid 10Hz: 0.13002597802767046
+epoch: 392, train 5Hz: 0.1361609837707178, train 10Hz: 0.13003418883423745, valid 5Hz: 0.13617970761325623, valid 10Hz: 0.12975017199361766
+epoch: 393, train 5Hz: 0.1363109196041837, train 10Hz: 0.1301322611025822, valid 5Hz: 0.13600582601847472, valid 10Hz: 0.12868818102611435
+dataset info: 
+low data: data2/Valid_1Hz.csv
+high data: data2/Valid_10Hz.csv
+window size: 2000
+time step: 200
+low data numbers: 1728000
+high data numbers: 17280000
+dataset len: 8630
+val maape: 0.12795130053427495
+format finished
+save finished
+dataset info: 
+low data: data2/Test_low.csv
+high data: None
+window size: 2000
+time step: 200
+low data numbers: 864000
+dataset len: 4310
+format finished
+save finished
+epoch: 394, train 5Hz: 0.13616313720926826, train 10Hz: 0.13009880483150482, valid 5Hz: 0.13564298417833115, valid 10Hz: 0.12911588858675074
+epoch: 395, train 5Hz: 0.13614126614950323, train 10Hz: 0.13002194751192023, valid 5Hz: 0.13574061487559919, valid 10Hz: 0.12914648911467305
+epoch: 396, train 5Hz: 0.13618185100732028, train 10Hz: 0.13009449050382332, valid 5Hz: 0.1359503221180704, valid 10Hz: 0.1288924278760398
+epoch: 397, train 5Hz: 0.1361901244815485, train 10Hz: 0.13002743310766457, valid 5Hz: 0.13543811043103535, valid 10Hz: 0.12955482718017367
+epoch: 398, train 5Hz: 0.13619973845319983, train 10Hz: 0.1300883267212797, valid 5Hz: 0.13561782875546702, valid 10Hz: 0.12914232479201423
+epoch: 399, train 5Hz: 0.13622376087271137, train 10Hz: 0.13009095405354912, valid 5Hz: 0.1358744418731442, valid 10Hz: 0.1285802618496948
+dataset info: 
+low data: data2/Valid_1Hz.csv
+high data: data2/Valid_10Hz.csv
+window size: 2000
+time step: 200
+low data numbers: 1728000
+high data numbers: 17280000
+dataset len: 8630
+val maape: 0.12781358970113457
+format finished
+save finished
+dataset info: 
+low data: data2/Test_low.csv
+high data: None
+window size: 2000
+time step: 200
+low data numbers: 864000
+dataset len: 4310
+format finished
+save finished
+epoch: 400, train 5Hz: 0.13620265626613004, train 10Hz: 0.12996472747605525, valid 5Hz: 0.13543293801722703, valid 10Hz: 0.12956471978514283
+epoch: 401, train 5Hz: 0.13622792482744028, train 10Hz: 0.13004678581599835, valid 5Hz: 0.13569948397300863, valid 10Hz: 0.12980627690752347
+epoch: 402, train 5Hz: 0.13619550541963107, train 10Hz: 0.1300757192167235, valid 5Hz: 0.1357057828594137, valid 10Hz: 0.12993578099542194
+epoch: 403, train 5Hz: 0.1361331131907157, train 10Hz: 0.12995002530975105, valid 5Hz: 0.13565456144235752, valid 10Hz: 0.1294996843845756
+epoch: 404, train 5Hz: 0.13614373606296234, train 10Hz: 0.12991232662289232, valid 5Hz: 0.13534901611230993, valid 10Hz: 0.12930622266398537
+epoch: 405, train 5Hz: 0.13617269742636032, train 10Hz: 0.13006598772826017, valid 5Hz: 0.13561810139152738, valid 10Hz: 0.1291231471079367
+epoch: 406, train 5Hz: 0.13619549736196612, train 10Hz: 0.12993919867792247, valid 5Hz: 0.1353406333812961, valid 10Hz: 0.12942712524974787
+epoch: 407, train 5Hz: 0.13615996096237207, train 10Hz: 0.13007659873476735, valid 5Hz: 0.13579476089389236, valid 10Hz: 0.12896297574043275
+epoch: 408, train 5Hz: 0.13617959592813328, train 10Hz: 0.1299192606115047, valid 5Hz: 0.13579071837442894, valid 10Hz: 0.12912619516805365
+epoch: 409, train 5Hz: 0.1361345749394393, train 10Hz: 0.1299303462291941, valid 5Hz: 0.13540435102250842, valid 10Hz: 0.12856112161168345
+dataset info: 
+low data: data2/Valid_1Hz.csv
+high data: data2/Valid_10Hz.csv
+window size: 2000
+time step: 200
+low data numbers: 1728000
+high data numbers: 17280000
+dataset len: 8630
+val maape: 0.12769170059403082
+format finished
+save finished
+dataset info: 
+low data: data2/Test_low.csv
+high data: None
+window size: 2000
+time step: 200
+low data numbers: 864000
+dataset len: 4310
+format finished
+save finished
+epoch: 410, train 5Hz: 0.1361738285716669, train 10Hz: 0.13000558175054597, valid 5Hz: 0.13537858652847784, valid 10Hz: 0.12904797259856154
+epoch: 411, train 5Hz: 0.13616897846445625, train 10Hz: 0.13005946817589395, valid 5Hz: 0.13528358257479137, valid 10Hz: 0.1298670558189904
+epoch: 412, train 5Hz: 0.13614124911434858, train 10Hz: 0.1300366895986192, valid 5Hz: 0.1360098584934517, valid 10Hz: 0.13046842642404416
+epoch: 413, train 5Hz: 0.1361643190185229, train 10Hz: 0.1301367278084343, valid 5Hz: 0.13542987334507484, valid 10Hz: 0.12922000752555
+epoch: 414, train 5Hz: 0.13610529489355322, train 10Hz: 0.1299075785242481, valid 5Hz: 0.13545215985289327, valid 10Hz: 0.129429925950589
+epoch: 415, train 5Hz: 0.1360793317173734, train 10Hz: 0.12984081464417188, valid 5Hz: 0.13558303829696444, valid 10Hz: 0.12895310065812535
+epoch: 416, train 5Hz: 0.13609839105679666, train 10Hz: 0.12988134646489297, valid 5Hz: 0.13556623370559126, valid 10Hz: 0.12944335311099334
+epoch: 417, train 5Hz: 0.13613137582569945, train 10Hz: 0.12988677740464977, valid 5Hz: 0.13558392690287696, valid 10Hz: 0.12849593104587662
+dataset info: 
+low data: data2/Valid_1Hz.csv
+high data: data2/Valid_10Hz.csv
+window size: 2000
+time step: 200
+low data numbers: 1728000
+high data numbers: 17280000
+dataset len: 8630
+val maape: 0.12772814323288847
+format finished
+save finished
+dataset info: 
+low data: data2/Test_low.csv
+high data: None
+window size: 2000
+time step: 200
+low data numbers: 864000
+dataset len: 4310
+format finished
+save finished
+epoch: 418, train 5Hz: 0.1360670879299258, train 10Hz: 0.12983897276866582, valid 5Hz: 0.135496588492835, valid 10Hz: 0.12865931129565947
+epoch: 419, train 5Hz: 0.13612719822077105, train 10Hz: 0.12989697288951757, valid 5Hz: 0.13546275937998736, valid 10Hz: 0.12857241332530975
+epoch: 420, train 5Hz: 0.1360963894629184, train 10Hz: 0.12995410296652052, valid 5Hz: 0.1354867817627059, valid 10Hz: 0.12849976058911394
+epoch: 421, train 5Hz: 0.13603724750839633, train 10Hz: 0.12992240251214415, valid 5Hz: 0.13542636522540338, valid 10Hz: 0.1286519034869141
+epoch: 422, train 5Hz: 0.13607936010316565, train 10Hz: 0.1298678159713745, valid 5Hz: 0.13545057243771022, valid 10Hz: 0.12855841561600015
+epoch: 423, train 5Hz: 0.13604311720456605, train 10Hz: 0.12985736663326805, valid 5Hz: 0.13572268657110356, valid 10Hz: 0.12886393917379557
+epoch: 424, train 5Hz: 0.1360775876008434, train 10Hz: 0.12990133276692142, valid 5Hz: 0.13520740772838946, valid 10Hz: 0.1303088986211353
+epoch: 425, train 5Hz: 0.13599918262090213, train 10Hz: 0.12984638574682636, valid 5Hz: 0.13536342316203648, valid 10Hz: 0.1287024936190358
+epoch: 426, train 5Hz: 0.13601643564524474, train 10Hz: 0.1298219958021317, valid 5Hz: 0.1359970251167262, valid 10Hz: 0.12854375521893854
+epoch: 427, train 5Hz: 0.1361579469876525, train 10Hz: 0.12998080947148946, valid 5Hz: 0.1358801782131195, valid 10Hz: 0.12892668459702422
+epoch: 428, train 5Hz: 0.13600126997924145, train 10Hz: 0.12992442767193288, valid 5Hz: 0.13614083329836527, valid 10Hz: 0.12984385793959652
+epoch: 429, train 5Hz: 0.13603609815055942, train 10Hz: 0.12981014792565945, valid 5Hz: 0.13539895895454618, valid 10Hz: 0.12927689521952912
+epoch: 430, train 5Hz: 0.1360412868084731, train 10Hz: 0.12988189144266976, valid 5Hz: 0.13557618133447788, valid 10Hz: 0.12900444178117645
+epoch: 431, train 5Hz: 0.13597534582202817, train 10Hz: 0.1296638485642127, valid 5Hz: 0.13558778823525816, valid 10Hz: 0.12866569208326162
+epoch: 432, train 5Hz: 0.13604844968628, train 10Hz: 0.12989038705457875, valid 5Hz: 0.1358686476393982, valid 10Hz: 0.12922567738978952
+epoch: 433, train 5Hz: 0.1359988279732657, train 10Hz: 0.1298192514313592, valid 5Hz: 0.13547866261667676, valid 10Hz: 0.12929264146972586
+epoch: 434, train 5Hz: 0.13604081635489876, train 10Hz: 0.12975053984073945, valid 5Hz: 0.13542223191923566, valid 10Hz: 0.12859605666663912
+epoch: 435, train 5Hz: 0.13602055095964008, train 10Hz: 0.1297785320951615, valid 5Hz: 0.1356449838037844, valid 10Hz: 0.12878535908681374
+epoch: 436, train 5Hz: 0.1359513105617629, train 10Hz: 0.12986182417766548, valid 5Hz: 0.1357804587593785, valid 10Hz: 0.12903595947557026
+epoch: 437, train 5Hz: 0.1359650567357923, train 10Hz: 0.12972676741120256, valid 5Hz: 0.136161795368901, valid 10Hz: 0.1287407762474484
+epoch: 438, train 5Hz: 0.13595571240157256, train 10Hz: 0.12976055877444184, valid 5Hz: 0.1355739399238869, valid 10Hz: 0.12950393952153347
+epoch: 439, train 5Hz: 0.1360249819762913, train 10Hz: 0.12980307119864004, valid 5Hz: 0.13542608878126852, valid 10Hz: 0.12892545423022023
+epoch: 440, train 5Hz: 0.1359588768379188, train 10Hz: 0.1298130452632904, valid 5Hz: 0.1354890615851791, valid 10Hz: 0.1287957702245977
+epoch: 441, train 5Hz: 0.13595027557493727, train 10Hz: 0.1296776044147986, valid 5Hz: 0.13534432158426002, valid 10Hz: 0.12896077972319392
+epoch: 442, train 5Hz: 0.1359487176309397, train 10Hz: 0.12971316187837978, valid 5Hz: 0.13575588911771774, valid 10Hz: 0.1297856649590863
+epoch: 443, train 5Hz: 0.13598892423841688, train 10Hz: 0.12997374034222262, valid 5Hz: 0.13534067311772593, valid 10Hz: 0.12942124086397666
+epoch: 444, train 5Hz: 0.13586679676800598, train 10Hz: 0.1296673168554718, valid 5Hz: 0.13568814915639382, valid 10Hz: 0.1288683867564908
+epoch: 445, train 5Hz: 0.135890280979651, train 10Hz: 0.12963858031564288, valid 5Hz: 0.13516735208255273, valid 10Hz: 0.1288358015594659
+epoch: 446, train 5Hz: 0.13592750860585107, train 10Hz: 0.12980162464542153, valid 5Hz: 0.13536381114412238, valid 10Hz: 0.12872906992280925
+epoch: 447, train 5Hz: 0.13592249009712243, train 10Hz: 0.12967539348720034, valid 5Hz: 0.13510297636191052, valid 10Hz: 0.1297827481671616
+epoch: 448, train 5Hz: 0.1358774227860533, train 10Hz: 0.12972975700725745, valid 5Hz: 0.13575223877474113, valid 10Hz: 0.12911479197166584
+epoch: 449, train 5Hz: 0.1359026429829774, train 10Hz: 0.1297713715537095, valid 5Hz: 0.13546266550267183, valid 10Hz: 0.12916353918887952
+epoch: 450, train 5Hz: 0.13586452713719122, train 10Hz: 0.12968993611909724, valid 5Hz: 0.13519682624825724, valid 10Hz: 0.1284315259092384
+dataset info: 
+low data: data2/Valid_1Hz.csv
+high data: data2/Valid_10Hz.csv
+window size: 2000
+time step: 200
+low data numbers: 1728000
+high data numbers: 17280000
+dataset len: 8630
+val maape: 0.12752915869167702
+format finished
+save finished
+dataset info: 
+low data: data2/Test_low.csv
+high data: None
+window size: 2000
+time step: 200
+low data numbers: 864000
+dataset len: 4310
+format finished
+save finished
+epoch: 451, train 5Hz: 0.13586495689771794, train 10Hz: 0.1296130868019881, valid 5Hz: 0.1357946401392972, valid 10Hz: 0.1287491337292724
+epoch: 452, train 5Hz: 0.1358940177861555, train 10Hz: 0.12983730545750372, valid 5Hz: 0.135381905844918, valid 10Hz: 0.12907384981711706
+epoch: 453, train 5Hz: 0.1357765558325214, train 10Hz: 0.1297444396732766, valid 5Hz: 0.1350556284741119, valid 10Hz: 0.12938374258853771
+epoch: 454, train 5Hz: 0.13577886720498403, train 10Hz: 0.12952327318029638, valid 5Hz: 0.13540278093682395, valid 10Hz: 0.12922434127993054
+epoch: 455, train 5Hz: 0.13587929247706024, train 10Hz: 0.12951235938587308, valid 5Hz: 0.13515776517214598, valid 10Hz: 0.12900060564279556
+epoch: 456, train 5Hz: 0.13587827367915048, train 10Hz: 0.12965699794851704, valid 5Hz: 0.13530614210499659, valid 10Hz: 0.1292144262680301
+epoch: 457, train 5Hz: 0.13575962978748626, train 10Hz: 0.1296473675671919, valid 5Hz: 0.13506501924108577, valid 10Hz: 0.12861813599312746
+epoch: 458, train 5Hz: 0.13577389948897892, train 10Hz: 0.12958242773641776, valid 5Hz: 0.1368695800503095, valid 10Hz: 0.12990341674950387
+epoch: 459, train 5Hz: 0.13576554129888982, train 10Hz: 0.12967534157229058, valid 5Hz: 0.13556924727227954, valid 10Hz: 0.12868945984928695
+epoch: 460, train 5Hz: 0.13578610055976445, train 10Hz: 0.12952652347308619, valid 5Hz: 0.13556395807751903, valid 10Hz: 0.12941486120775894
+epoch: 461, train 5Hz: 0.13573952582147386, train 10Hz: 0.12976217286454306, valid 5Hz: 0.13519144163087563, valid 10Hz: 0.12885234529773396
+epoch: 462, train 5Hz: 0.13570444306105744, train 10Hz: 0.12962211828540873, valid 5Hz: 0.13523196329673132, valid 10Hz: 0.1289954684122845
+epoch: 463, train 5Hz: 0.13574834797117447, train 10Hz: 0.12965837293936883, valid 5Hz: 0.13563481591365956, valid 10Hz: 0.12969749550576562
+epoch: 464, train 5Hz: 0.1356729633094352, train 10Hz: 0.1294353954034087, valid 5Hz: 0.13505226009421878, valid 10Hz: 0.12860287044335295
+epoch: 465, train 5Hz: 0.13571332860508084, train 10Hz: 0.12937761418245458, valid 5Hz: 0.13557201552170295, valid 10Hz: 0.12881011915979562
+epoch: 466, train 5Hz: 0.13566528258868205, train 10Hz: 0.12961037239910644, valid 5Hz: 0.13514991645459776, valid 10Hz: 0.12900467677800745
+epoch: 467, train 5Hz: 0.13564112703373402, train 10Hz: 0.12956394486957126, valid 5Hz: 0.13496862197363818, valid 10Hz: 0.12905286269055471
+epoch: 468, train 5Hz: 0.13559432029724122, train 10Hz: 0.12945302662290173, valid 5Hz: 0.13499671386347878, valid 10Hz: 0.12911698230438762
+epoch: 469, train 5Hz: 0.13565953666413272, train 10Hz: 0.12938634670443006, valid 5Hz: 0.13551176957510136, valid 10Hz: 0.12920401642719906
+epoch: 470, train 5Hz: 0.13565908959250392, train 10Hz: 0.12955412062597862, valid 5Hz: 0.13518548646458872, valid 10Hz: 0.12860096190814618
+epoch: 471, train 5Hz: 0.13566131661703557, train 10Hz: 0.12952593480363303, valid 5Hz: 0.1351296348152337, valid 10Hz: 0.1285447923121629
+epoch: 472, train 5Hz: 0.1356162232933221, train 10Hz: 0.12953400920938563, valid 5Hz: 0.13490245149091437, valid 10Hz: 0.12854903080949076
+epoch: 473, train 5Hz: 0.13554945209144073, train 10Hz: 0.129493093803341, valid 5Hz: 0.13479445074443464, valid 10Hz: 0.12905717158207186
+epoch: 474, train 5Hz: 0.13553102790941426, train 10Hz: 0.12932423183947434, valid 5Hz: 0.1351398018223268, valid 10Hz: 0.12911164575704823
+epoch: 475, train 5Hz: 0.135630212098728, train 10Hz: 0.12934708337724946, valid 5Hz: 0.13505875556557267, valid 10Hz: 0.12860658657219676
+epoch: 476, train 5Hz: 0.13554663652623142, train 10Hz: 0.12934106018072294, valid 5Hz: 0.13508733786918498, valid 10Hz: 0.12979120228577543
+epoch: 477, train 5Hz: 0.13555981262966438, train 10Hz: 0.1294188016726647, valid 5Hz: 0.13539069951684388, valid 10Hz: 0.1284692136225877
+epoch: 478, train 5Hz: 0.13558747012306144, train 10Hz: 0.12927302339194732, valid 5Hz: 0.1350633845285133, valid 10Hz: 0.12920166971506897
+epoch: 479, train 5Hz: 0.1355049225099293, train 10Hz: 0.1293699770429988, valid 5Hz: 0.13511843085289002, valid 10Hz: 0.12879352986260698
+epoch: 480, train 5Hz: 0.13547005618428007, train 10Hz: 0.12918939579416205, valid 5Hz: 0.13492310637677157, valid 10Hz: 0.12843636649626272
+epoch: 481, train 5Hz: 0.13546655862419693, train 10Hz: 0.12938497723252684, valid 5Hz: 0.1350242739474332, valid 10Hz: 0.12878139071442463
+epoch: 482, train 5Hz: 0.13540714189962105, train 10Hz: 0.12930091704115457, valid 5Hz: 0.13550730998869295, valid 10Hz: 0.12866356168632154
+epoch: 483, train 5Hz: 0.13545339983186605, train 10Hz: 0.12924913896454704, valid 5Hz: 0.13494161356378484, valid 10Hz: 0.12805765867233276
+dataset info: 
+low data: data2/Valid_1Hz.csv
+high data: data2/Valid_10Hz.csv
+window size: 2000
+time step: 200
+low data numbers: 1728000
+high data numbers: 17280000
+dataset len: 8630
+val maape: 0.12725773128609583
+format finished
+save finished
+dataset info: 
+low data: data2/Test_low.csv
+high data: None
+window size: 2000
+time step: 200
+low data numbers: 864000
+dataset len: 4310
+format finished
+save finished
+epoch: 484, train 5Hz: 0.13541826144044783, train 10Hz: 0.12911706191522104, valid 5Hz: 0.13529821396977812, valid 10Hz: 0.12844206660434052
+epoch: 485, train 5Hz: 0.1353700829140934, train 10Hz: 0.12907993609522594, valid 5Hz: 0.13473626480058387, valid 10Hz: 0.12953412800475403
+epoch: 486, train 5Hz: 0.13534536909909897, train 10Hz: 0.1290505117656272, valid 5Hz: 0.134868901250539, valid 10Hz: 0.1287291128050398
+epoch: 487, train 5Hz: 0.13543286673080773, train 10Hz: 0.12904548792191495, valid 5Hz: 0.1354582941642514, valid 10Hz: 0.12937153210794483
+epoch: 488, train 5Hz: 0.13536557203825608, train 10Hz: 0.12901049631613273, valid 5Hz: 0.1350720630199821, valid 10Hz: 0.1283468380846359
+epoch: 489, train 5Hz: 0.1353230369311792, train 10Hz: 0.12888689230621597, valid 5Hz: 0.13493641250663332, valid 10Hz: 0.1282976352782161
+epoch: 490, train 5Hz: 0.1353121648232142, train 10Hz: 0.12894995402038834, valid 5Hz: 0.13622667287234907, valid 10Hz: 0.1290443334038611
+epoch: 491, train 5Hz: 0.13531431724995743, train 10Hz: 0.12880264380831777, valid 5Hz: 0.1346257115403811, valid 10Hz: 0.12818140804215714
+epoch: 492, train 5Hz: 0.13538080284624923, train 10Hz: 0.12900008176579889, valid 5Hz: 0.13475920894631632, valid 10Hz: 0.12894563467966186
+epoch: 493, train 5Hz: 0.1352626519990556, train 10Hz: 0.12878845850994558, valid 5Hz: 0.13587563308300796, valid 10Hz: 0.12827735510137345
+epoch: 494, train 5Hz: 0.13531921250216755, train 10Hz: 0.12884852987380677, valid 5Hz: 0.13510712859807192, valid 10Hz: 0.1289254899378176
+epoch: 495, train 5Hz: 0.13518468881094897, train 10Hz: 0.12875620590315925, valid 5Hz: 0.1347527218085748, valid 10Hz: 0.1283629963795344
+epoch: 496, train 5Hz: 0.13521096779976363, train 10Hz: 0.12876825003344336, valid 5Hz: 0.13457216874316888, valid 10Hz: 0.12874628884924783
+epoch: 497, train 5Hz: 0.13524079339371786, train 10Hz: 0.12870398165635122, valid 5Hz: 0.13470223915797694, valid 10Hz: 0.12883355302943122
+epoch: 498, train 5Hz: 0.13528621583073228, train 10Hz: 0.12869118200040158, valid 5Hz: 0.13505298765721144, valid 10Hz: 0.12903815245738737
+epoch: 499, train 5Hz: 0.13517056392666735, train 10Hz: 0.12875437432969059, valid 5Hz: 0.13548293731830738, valid 10Hz: 0.12933843936081285

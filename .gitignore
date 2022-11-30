@@ -1,0 +1,8 @@
+*.jpg
+result/
+paper/
+data/*
+data2/*
+__pycache__/
+*.pth
+*.csv
